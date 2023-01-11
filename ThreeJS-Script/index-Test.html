@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title> 3D MODEL </title>
+
+
+    <style>
+      h1 {margin-left: 250 px;
+          font-family: Arial, Helvetica, sans-serif;
+        margin-left: 175px;}
+      body { margin: 0;
+        
+      background-color: rgb(165, 88, 88); }
+      canvas { display: block;}
+    </style>
+
+
+  </head>
+  <body>
+
+        <h1>Model Here </h1>
+    <!--   <div id="root"></div>  -->
+    <script src="three.js"></script>
+    <script src="https://cdn.rawgit.com/mrdoob/three.js/master/examples/js/loaders/GLTFLoader.js"></script>
+
+    <script type="module" src="GLTFLoader.js"></script>
+    <script type="module">
+      import {GLTFLoader} from "./GLTFLoader.js" ;
+
+      var scene = new THREE.Scene();
+
+      scene.background = new THREE.Color(0xffffff);
+
+      var camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.01, 1000);
+      var renderer = new THREE.WebGLRenderer();
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      var GLoader = new THREE.GLTFLoader();
+
+        GLoader.load('object10.gltf', (gltf) => {
+        var obj = gltf.scene;
+        
+        //obj.scale.set(0.2,0.2,0.2);
+        scene.add(obj);
+        //obj.position.x = 0;
+        //obj.position.y = 10;
+        //obj.position.z = 15;
+      });
+      
+      var light = new THREE.HemisphereLight(0xffffff,0xffffff,10); 
+      scene.add(light);
+      camera.position.set(-2, 5, 10);
+
+
+      function animate() {
+        requestAnimationFrame(animate);
+        //if (obj && obj.rotation) {}
+        //obj.rotation.y += 0.005;
+        renderer.render(scene, camera);
+    }
+    animate()
+
+    </script>
+         
+  </body>
+</html>

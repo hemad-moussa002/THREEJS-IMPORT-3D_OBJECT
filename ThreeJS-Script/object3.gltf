@@ -1,0 +1,1097 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "uuid" : "aac34960-71ad-41d0-bd6c-e37c764d855c",
+                "assets reported" : {},
+                "assets used" : {
+                    "ccc42adb-b7e3-4ffb-a446-ced6e5766f61" : {
+                        "thumbnail" : "thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85.jpg",
+                        "thumbnail_small" : "thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.256x256_q85_crop-%2C.jpg",
+                        "downloaded" : 0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/44839244-5d3f-4228-8c1d-08e1a81d360c/",
+                        "id" : "44839244-5d3f-4228-8c1d-08e1a81d360c",
+                        "assetBaseId" : "ccc42adb-b7e3-4ffb-a446-ced6e5766f61",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "118455",
+                            "firstName" : "Poly Haven",
+                            "lastName" : "",
+                            "gravatarHash" : "9da1c50cedd2b312112a027058bc1c1f",
+                            "avatar128" : "/avatar-redirect/32aebffe-2245-417d-8710-c0ea1442ba07/128/",
+                            "aboutMe" : "We publish 100% free high quality 3D assets with no strings attached :) If you want to support our work and help us keep making new assets, find us on Patreon: https://polyhaven.com/support-us",
+                            "aboutMeUrl" : "https://polyhaven.com/"
+                        },
+                        "name" : "Vintage Measuring Lab",
+                        "displayName" : "Vintage Measuring Lab",
+                        "description" : "by Oliksiy Yakovlyev",
+                        "assetType" : "hdr",
+                        "category" : "hdr-industrial",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "machine",
+                            "industrial",
+                            "workshop",
+                            "laboratory",
+                            "vintage_measuring_lab"
+                        ],
+                        "license" : "cc_zero",
+                        "sourceAppName" : "HDRI_haven_uploader.py",
+                        "sourceAppVersion" : "1.0",
+                        "addonVersion" : "1.0",
+                        "created" : "2021-03-29T01:29:45.294654+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/52117/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/52118/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/448392445d3f42288c1d08e1a81d360c/files/resolution_1K_9f843be1-9bd5-4f4f-8593-c739d6a879b7.hdr",
+                                "file_name" : "resolution_1K_9f843be1-9bd5-4f4f-8593-c739d6a879b7.hdr"
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/52119/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_4K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/52120/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_8K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/52123/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/52100/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 428385439,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.2048x2048_q85.jpg",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1628697827",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1628697827",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1628697827",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1628697827",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.256x256_q85.jpg.webp?webp_generated=1628697827",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.512x512_q85.jpg.webp?webp_generated=1628697827",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.1024x1024_q85.jpg.webp?webp_generated=1628697827",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/448392445d3f42288c1d08e1a81d360c/files/thumbnail_a9a2efd5-6503-4642-b5ca-30320584ed5f.jpg.2048x2048_q85.jpg.webp?webp_generated=1628697827",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1628697827,
+                        "score" : 1000.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 10.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 10.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 2,
+                            "workingHours" : 3,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 20.0,
+                            "workingHours" : 23.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 17408,
+                            "evsCap" : 8,
+                            "trueHDR" : 1
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            1024,
+                            2048,
+                            4096,
+                            8192
+                        ],
+                        "max_resolution" : 8192,
+                        "tooltip_data" : {
+                            "aname" : "Vintage Measuring Lab",
+                            "author_text" : "by Poly Haven ",
+                            "quality" : "10"
+                        },
+                        "resolution" : "resolution_1K"
+                    },
+                    "eebebd07-b10e-4fa5-ab28-347883b83f68" : {
+                        "thumbnail" : "thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/f2d36ec2-6f2a-453b-ab19-b353dd451e82/",
+                        "id" : "f2d36ec2-6f2a-453b-ab19-b353dd451e82",
+                        "assetBaseId" : "eebebd07-b10e-4fa5-ab28-347883b83f68",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "205846",
+                            "firstName" : "Paco",
+                            "lastName" : "Salas",
+                            "gravatarHash" : "74ee2eb74c2e385593a4d91a26a785e4",
+                            "avatar128" : "/avatar-redirect/3e71b0bb-d5ea-4ce9-ac04-7d822fd3c245/128/",
+                            "aboutMe" : "New in this incredible 3D universe! Learning new techniques, enhancing my skills and experimenting.\r\n\r\nIn this learning curve, I'm sharing stuff with this community to come up with an easy way to make your own art!\r\n\r\nGamer Tag: Dr. Hacker \"BE HACK 2000\"",
+                            "aboutMeUrl" : "https://sketchfab.com/codigopixel/collections"
+                        },
+                        "name" : "Rough Plastic",
+                        "displayName" : "Rough Plastic",
+                        "description" : "Procedural Rough Plastic shader texture. Single node group setup includes:\r\n\r\n - Base and Blend Color\r\n - Global Scale and Aspect Radio\r\n - Reflection, Falloff and Roughness control\r\n - Bump Strenght",
+                        "assetType" : "material",
+                        "category" : "plastic",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "procedural",
+                            "rough",
+                            "artificial",
+                            "bogus",
+                            "elastic",
+                            "fake",
+                            "formable",
+                            "moldable",
+                            "molded",
+                            "plastic",
+                            "polypropylene",
+                            "polyurethane",
+                            "print",
+                            "shapeable",
+                            "synthetic",
+                            "Bakelite",
+                            "Formica",
+                            "melamine",
+                            "Perspex",
+                            "Plexiglas",
+                            "polystyrene",
+                            "PVC",
+                            "malleable",
+                            "shapable",
+                            "waxy",
+                            "affected",
+                            "wax",
+                            "assumed",
+                            "thermoplastic",
+                            "polymer",
+                            "bakelite",
+                            "formica",
+                            "acrylic",
+                            "bioplastic",
+                            "vinyl",
+                            "fluorocarbon",
+                            "mylar",
+                            "polypropene",
+                            "thermosetting",
+                            "compositions",
+                            "ABS",
+                            "pliant",
+                            "impressionable",
+                            "manageable",
+                            "limber",
+                            "flexible",
+                            "polyethylene",
+                            "polyvinyl",
+                            "chloride",
+                            "acetate",
+                            "glycerine",
+                            "naphthalene",
+                            "silica",
+                            "silicon",
+                            "silicone",
+                            "monomer",
+                            "styrene",
+                            "petroleum",
+                            "hydrocarbon",
+                            "blender",
+                            "color",
+                            "configurable",
+                            "cycles",
+                            "decoration",
+                            "decorative",
+                            "design",
+                            "free",
+                            "material",
+                            "pattern",
+                            "node",
+                            "nodes",
+                            "style",
+                            "stylized",
+                            "surface",
+                            "texture",
+                            "textureart",
+                            "real",
+                            "realistic",
+                            "adornment",
+                            "ornamentation"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.0",
+                        "addonVersion" : "3.2.0",
+                        "created" : "2022-10-14T18:30:20.732944+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/144530/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/f2d36ec26f2a453bab19b353dd451e82/files/blend_b7725df7-e6e2-4af5-981f-e17201da5b9c.blend",
+                                "file_name" : "blend_b7725df7-e6e2-4af5-981f-e17201da5b9c.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/144529/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 251911,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.256x256_q85_crop-%2C.png.webp?webp_generated=1666511749",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.512x512_q85_crop-%2C.png.webp?webp_generated=1666511749",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1666511749",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1666511749",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.256x256_q85.png.webp?webp_generated=1666511749",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.512x512_q85.png.webp?webp_generated=1666511749",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.1024x1024_q85.png.webp?webp_generated=1666511749",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/f2d36ec26f2a453bab19b353dd451e82/files/thumbnail_b725f3df-0494-4ab4-88da-6d9a1e2f3fce.png.2048x2048_q85.png.webp?webp_generated=1666511749",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1666511749,
+                        "score" : 300.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 1,
+                            "workingHours" : 1,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 1,
+                            "materialStyle" : "realistic",
+                            "condition" : "new",
+                            "purePbr" : 0,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "glossy",
+                                "mix shader",
+                                "reroute"
+                            ],
+                            "animated" : 0,
+                            "uv" : 0,
+                            "nodeCount" : 464,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Rough Plastic",
+                            "author_text" : "by Paco Salas",
+                            "quality" : "10"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "01c185cd-b988-4521-9899-5f9b9f07c48f" : {
+                        "thumbnail" : "thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/11900631-295d-4cfc-b558-9863bdc88d6a/",
+                        "id" : "11900631-295d-4cfc-b558-9863bdc88d6a",
+                        "assetBaseId" : "01c185cd-b988-4521-9899-5f9b9f07c48f",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "102778",
+                            "firstName" : "eatnoodls",
+                            "lastName" : "",
+                            "gravatarHash" : "98e58daaf60d6b26688289652a734fbc",
+                            "avatar128" : "/avatar-redirect/9e6a41e9-9132-4a1a-8e5f-895f6f426faa/128/",
+                            "aboutMe" : "I'm a Canadian graphic design student.",
+                            "aboutMeUrl" : "https://www.artstation.com/eatnoodls",
+                            "tooltip" : "eatnoodls \n\nI'm a Canadian graphic design student.\n",
+                            "gravatarImg" : "C:\\Users\\legion\\AppData\\Local\\Temp\\bkit_temp\\bkit_g/102778.jpg"
+                        },
+                        "name" : "Condensed Glass",
+                        "displayName" : "Condensed Glass",
+                        "description" : "Condensation is the change of the state of matter from the gas phase into the liquid phase, and is the reverse of vaporization. The word most often refers to the water cycle.[1] It can also be defined as the change in the state of water vapor to liquid water when in contact with a liquid or solid surface or cloud condensation nuclei within the atmosphere. When the transition happens from the gaseous phase into the solid phase directly, the change is called deposition.",
+                        "assetType" : "material",
+                        "category" : "glass",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Wet",
+                            "Condensed",
+                            "Condensation",
+                            "Wet Glass",
+                            "Glass",
+                            "Cycles",
+                            "Nodes",
+                            "Procedural",
+                            "Condensation Glass",
+                            "Condensed Glass",
+                            "Glass with Water"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.0.0",
+                        "addonVersion" : "3.0.0",
+                        "created" : "2021-10-13T03:16:01.613132+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/83745/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/11900631295d4cfcb5589863bdc88d6a/files/blend_058b818a-8d7b-423e-bf81-5f2b2fddffed.blend",
+                                "file_name" : "blend_058b818a-8d7b-423e-bf81-5f2b2fddffed.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/83744/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 60047,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.256x256_q85_crop-%2C.png.webp?webp_generated=1634502657",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.512x512_q85_crop-%2C.png.webp?webp_generated=1634502657",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1634502657",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1634502657",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.256x256_q85.png.webp?webp_generated=1634502657",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.512x512_q85.png.webp?webp_generated=1634502657",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.1024x1024_q85.png.webp?webp_generated=1634502657",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/11900631295d4cfcb5589863bdc88d6a/files/thumbnail_744054c5-725b-4ef9-aded-fa7aa16ae81e.png.2048x2048_q85.png.webp?webp_generated=1634502657",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1634502657,
+                        "score" : 483.33333333333326,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 5.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.666666666666666,
+                            "workingHours" : 5.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 3,
+                            "workingHours" : 5,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 29.0,
+                            "workingHours" : 21.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 1,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 0,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "glass"
+                            ],
+                            "animated" : 0,
+                            "uv" : 0,
+                            "nodeCount" : 5,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Condensed Glass",
+                            "author_text" : "by eatnoodls ",
+                            "quality" : "10"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "d85ffa19-bfe1-4e19-a9a1-9ff7746b3dff" : {
+                        "thumbnail" : "thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/cddccf51-dd6b-40e4-b9c7-3c4ab4371be6/",
+                        "id" : "cddccf51-dd6b-40e4-b9c7-3c4ab4371be6",
+                        "assetBaseId" : "d85ffa19-bfe1-4e19-a9a1-9ff7746b3dff",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "156012",
+                            "firstName" : "Mikhail",
+                            "lastName" : "Zabolotny",
+                            "gravatarHash" : "b921533d6bf4fa302e4c051098632416",
+                            "avatar128" : "/avatar-redirect/d7cde77d-d85b-4557-9cb5-29411aa1d4b7/128/",
+                            "aboutMe" : "",
+                            "aboutMeUrl" : "https://www.artstation.com/johnnyyy",
+                            "tooltip" : "Mikhail Zabolotny\n\n",
+                            "gravatarImg" : "C:\\Users\\legion\\AppData\\Local\\Temp\\bkit_temp\\bkit_g/156012.jpg"
+                        },
+                        "name" : "Metal",
+                        "displayName" : "Metal",
+                        "description" : "White metal suitable for absolutely any metal surfaces",
+                        "assetType" : "material",
+                        "category" : "metal",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "metal",
+                            "old",
+                            "white",
+                            "scratched",
+                            "dirty",
+                            "dusty",
+                            "glossy",
+                            "surface"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.2.2",
+                        "addonVersion" : "3.1.7",
+                        "created" : "2022-08-19T20:05:31.550501+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/136802/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/137118/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/137117/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/137116/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/resolution_2K_0f7e9491-5390-43a4-9750-572f2d22095a.blend",
+                                "file_name" : "resolution_2K_0f7e9491-5390-43a4-9750-572f2d22095a.blend"
+                            },
+                            {
+                                "fileType" : "resolution_4K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/137115/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/136801/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 32578998,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.256x256_q85_crop-%2C.png.webp?webp_generated=1661097941",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.512x512_q85_crop-%2C.png.webp?webp_generated=1661097941",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1661097941",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1661097941",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.256x256_q85.png.webp?webp_generated=1661097941",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.512x512_q85.png.webp?webp_generated=1661097941",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.1024x1024_q85.png.webp?webp_generated=1661097941",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/cddccf51dd6b40e4b9c73c4ab4371be6/files/thumbnail_6fe92d3c-8c64-4d35-8687-2ccdbb193819.png.2048x2048_q85.png.webp?webp_generated=1661097941",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1661097941,
+                        "score" : 466.66666666666674,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 5.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.333333333333334,
+                            "workingHours" : 5.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 3,
+                            "workingHours" : 2,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 28.0,
+                            "workingHours" : 10.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 4096,
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 0,
+                            "materialStyle" : "realistic",
+                            "condition" : "used",
+                            "purePbr" : 1,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 4096,
+                            "nodeCount" : 13,
+                            "textureCount" : 3,
+                            "megapixels" : 48
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048,
+                            4096
+                        ],
+                        "max_resolution" : 4096,
+                        "tooltip_data" : {
+                            "aname" : "Metal",
+                            "author_text" : "by Mikhail Zabolotny",
+                            "quality" : "9"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "44a70fd1-c1ea-4835-a2db-e9593e0bbf57" : {
+                        "thumbnail" : "thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/e88e8264-835e-422c-b1f1-c0f0ccf30bab/",
+                        "id" : "e88e8264-835e-422c-b1f1-c0f0ccf30bab",
+                        "assetBaseId" : "44a70fd1-c1ea-4835-a2db-e9593e0bbf57",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "5351",
+                            "firstName" : "Andrey",
+                            "lastName" : "Livintsov",
+                            "gravatarHash" : "9852d0dcc2443e359572b84084c37df6",
+                            "avatar128" : "/avatar-redirect/c2402a2b-8c67-401f-ab58-a10d3516c42c/128/",
+                            "aboutMe" : "Working as a 3D artist and game developer, I like to create new materials and 3D assets.",
+                            "aboutMeUrl" : "https://www.linkedin.com/in/andreylivintsov/"
+                        },
+                        "name" : "Wood",
+                        "displayName" : "Wood",
+                        "description" : "Wood texture made with Substance Designer",
+                        "assetType" : "material",
+                        "category" : "wood",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "wood",
+                            "wooden",
+                            "smooth",
+                            "pbr",
+                            "material"
+                        ],
+                        "license" : "cc_zero",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.91.2",
+                        "addonVersion" : "1.0.32",
+                        "created" : "2021-02-16T20:28:50.317141+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/45916/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/blend_3454e485-1fcf-4e54-8de9-9e05aabcdc8e.blend",
+                                "file_name" : "blend_3454e485-1fcf-4e54-8de9-9e05aabcdc8e.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/45914/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 19791942,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.256x256_q85_crop-%2C.png.webp?webp_generated=1613635933",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.512x512_q85_crop-%2C.png.webp?webp_generated=1613635933",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1613635933",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1613635933",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.256x256_q85.png.webp?webp_generated=1613635933",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.512x512_q85.png.webp?webp_generated=1613635933",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.1024x1024_q85.png.webp?webp_generated=1613635933",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/e88e8264835e422cb1f1c0f0ccf30bab/files/thumbnail_503a4e91-258f-4441-ad12-7785bb77c954.png.2048x2048_q85.png.webp?webp_generated=1613635933",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1613635933,
+                        "score" : 286.3636363636363,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.545454545454545,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 22,
+                            "workingHours" : 20,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 210.0,
+                            "workingHours" : 61.9,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 1,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 1,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                ""
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "nodeCount" : 0,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Wood",
+                            "author_text" : "by Andrey Livintsov",
+                            "quality" : "10"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "9e14e6fb-0780-426f-a112-b6f8a0cc355e" : {
+                        "thumbnail" : "thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "texture_size_meters" : 1.0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/a1186eb8-a4cd-4a02-bf72-5e71b8de2bab/",
+                        "id" : "a1186eb8-a4cd-4a02-bf72-5e71b8de2bab",
+                        "assetBaseId" : "9e14e6fb-0780-426f-a112-b6f8a0cc355e",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "5351",
+                            "firstName" : "Andrey",
+                            "lastName" : "Livintsov",
+                            "gravatarHash" : "9852d0dcc2443e359572b84084c37df6",
+                            "avatar128" : "/avatar-redirect/c2402a2b-8c67-401f-ab58-a10d3516c42c/128/",
+                            "aboutMe" : "Working as a 3D artist and game developer, I like to create new materials and 3D assets.",
+                            "aboutMeUrl" : "https://www.linkedin.com/in/andreylivintsov/"
+                        },
+                        "name" : "Wood",
+                        "displayName" : "Wood",
+                        "description" : "Wood texture made with Substance Designer",
+                        "assetType" : "material",
+                        "category" : "wood",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "wood",
+                            "wooden",
+                            "smooth",
+                            "pbr",
+                            "material"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.91.2",
+                        "addonVersion" : "1.0.32",
+                        "created" : "2021-02-01T16:04:04.567667+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/44162/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/blend_e09e506e-ba9f-49ee-b027-37361743505c.blend",
+                                "file_name" : "blend_e09e506e-ba9f-49ee-b027-37361743505c.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/44161/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 16260072,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.2048x2048_q85.png",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.256x256_q85_crop-%2C.png.webp?webp_generated=1612458874",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.512x512_q85_crop-%2C.png.webp?webp_generated=1612458874",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1612458874",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1612458874",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.256x256_q85.png.webp?webp_generated=1612458874",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.512x512_q85.png.webp?webp_generated=1612458874",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.1024x1024_q85.png.webp?webp_generated=1612458874",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/a1186eb8a4cd4a02bf725e71b8de2bab/files/thumbnail_d2c87dbb-d1a5-453a-b347-ce0f333b8812.png.2048x2048_q85.png.webp?webp_generated=1612458874",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1612458874,
+                        "score" : 395.55555555555554,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 4.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.88888888888889,
+                            "workingHours" : 4.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 9,
+                            "workingHours" : 8,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 89.0,
+                            "workingHours" : 27.400000000000002,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureSizeMeters" : 1.0,
+                            "procedural" : 1,
+                            "materialStyle" : "realistic",
+                            "purePbr" : 1,
+                            "engine" : "cycles",
+                            "shaders" : [
+                                ""
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "nodeCount" : 0,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Wood",
+                            "author_text" : "by Andrey Livintsov",
+                            "quality" : "10"
+                        },
+                        "resolution" : "blend"
+                    }
+                }
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Circle.001",
+            "scale" : [
+                1.3570077419281006,
+                1.3570077419281006,
+                1.3570077419281006
+            ],
+            "translation" : [
+                2.5264129638671875,
+                0,
+                -0.6545772552490234
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extras" : {
+                "blenderkit" : {}
+            },
+            "name" : "Material.002",
+            "pbrMetallicRoughness" : {}
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Circle.001",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 800,
+            "max" : [
+                1.184389352798462,
+                2.488786458969116,
+                1.184389352798462
+            ],
+            "min" : [
+                -1.184389352798462,
+                0,
+                -1.184389352798462
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 800,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 800,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 4122,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 9600,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9600,
+            "byteOffset" : 9600,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6400,
+            "byteOffset" : 19200,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8244,
+            "byteOffset" : 25600,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 33844,
+            "uri" : "data:application/octet-stream;base64,AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/wsVHvgAAAAC+FHu/wsVHvgAAAAC+FHu/Fu/DvgAAAABeg2y/Fu/DvgAAAABeg2y/2jkOvwAAAAAx21S/2jkOvwAAAAAx21S/8wQ1vwAAAADzBDW/8wQ1vwAAAADzBDW/MdtUvwAAAADaOQ6/MdtUvwAAAADaOQ6/XoNsvwAAAAAW78O+XoNsvwAAAAAW78O+vhR7vwAAAADCxUe+vhR7vwAAAADCxUe+AACAvwAAAAAAAACAAACAvwAAAAAAAACAvhR7vwAAAADCxUc+vhR7vwAAAADCxUc+XoNsvwAAAAAW78M+XoNsvwAAAAAW78M+MdtUvwAAAADaOQ4/MdtUvwAAAADaOQ4/8wQ1vwAAAADzBDU/8wQ1vwAAAADzBDU/2jkOvwAAAAAx21Q/2jkOvwAAAAAx21Q/Fu/DvgAAAABeg2w/Fu/DvgAAAABeg2w/wsVHvgAAAAC+FHs/wsVHvgAAAAC+FHs/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/wsVHPgAAAAC+FHs/wsVHPgAAAAC+FHs/Fu/DPgAAAABeg2w/Fu/DPgAAAABeg2w/2jkOPwAAAAAx21Q/2jkOPwAAAAAx21Q/8wQ1PwAAAADzBDU/8wQ1PwAAAADzBDU/MdtUPwAAAADaOQ4/MdtUPwAAAADaOQ4/XoNsPwAAAAAW78M+XoNsPwAAAAAW78M+vhR7PwAAAADCxUc+vhR7PwAAAADCxUc+AACAPwAAAAAAAACAAACAPwAAAAAAAACAvhR7PwAAAADCxUe+vhR7PwAAAADCxUe+XoNsPwAAAAAW78O+XoNsPwAAAAAW78O+MdtUPwAAAADaOQ6/MdtUPwAAAADaOQ6/8wQ1PwAAAADzBDW/8wQ1PwAAAADzBDW/2jkOPwAAAAAx21S/2jkOPwAAAAAx21S/Fu/DPgAAAABeg2y/Fu/DPgAAAABeg2y/wsVHPgAAAAC+FHu/wsVHPgAAAAC+FHu/9fWEM6abHEA49lm+9fWEM6abHEA49lm+txYqvaabHEAQxlW+txYqvaabHEAQxlW+FNKmvaabHEDUXkm+FNKmvaabHEDUXkm+pC/yvaabHECEOjW+pC/yvaabHECEOjW+Sh8avqabHEBMHxq+Sh8avqabHEBMHxq+gjo1vqabHECoL/K9gjo1vqabHECoL/K90l5JvqabHEAY0qa90l5JvqabHEAY0qa9CsZVvqabHEDAFiq9CsZVvqabHEDAFiq9MvZZvqabHEBygskyMvZZvqabHEBygskyCsZVvqabHEDMFio9CsZVvqabHEDMFio90l5JvqabHEAg0qY90l5JvqabHEAg0qY9gjo1vqabHECwL/I9gjo1vqabHECwL/I9Sh8avqabHEBQHxo+Sh8avqabHEBQHxo+pC/yvaabHECIOjU+pC/yvaabHECIOjU+FNKmvaabHEDYXkk+FNKmvaabHEDYXkk+txYqvaabHEAQxlU+txYqvaabHEAQxlU+9fWEM6abHEA49lk+9fWEM6abHEA49lk+1RYqPaabHEAQxlU+1RYqPaabHEAQxlU+JNKmPaabHEDYXkk+JNKmPaabHEDYXkk+tC/yPaabHECIOjU+tC/yPaabHECIOjU+Uh8aPqabHEBQHxo+Uh8aPqabHEBQHxo+ijo1PqabHECwL/I9ijo1PqabHECwL/I92l5JPqabHEAg0qY92l5JPqabHEAg0qY9FsZVPqabHEDMFio9FsZVPqabHEDMFio9PvZZPqabHEBygskyPvZZPqabHEBygskyFsZVPqabHEDAFiq9FsZVPqabHEDAFiq92l5JPqabHEAY0qa92l5JPqabHEAY0qa9ijo1PqabHECoL/K9ijo1PqabHECoL/K9Uh8aPqabHEBMHxq+Uh8aPqabHEBMHxq+tC/yPaabHECEOjW+tC/yPaabHECEOjW+JNKmPaabHEDUXkm+JNKmPaabHEDUXkm+1RYqPaabHEAQxlW+1RYqPaabHEAQxlW+t5GCM6ebHEDNcoS+t5GCM6ebHEDNcoS+D7dOvaebHEBK54G+D7dOvaebHEBK54G+Qb7KvaebHECZu3S+Qb7KvaebHECZu3S+NisTvqebHEDyQFy+NisTvqebHEDyQFy+c087vqebHEB1Tzu+c087vqebHEB1Tzu+70BcvqebHEA4KxO+70BcvqebHEA4KxO+l7t0vqebHEBGvsq9l7t0vqebHEBGvsq9R+eBvqebHEAZt069R+eBvqebHEAZt069ynKEvqebHEBSpoYyynKEvqebHEBSpoYyR+eBvqebHEAht049R+eBvqebHEAht049l7t0vqebHEBMvso9l7t0vqebHEBMvso970BcvqebHEA8KxM+70BcvqebHEA8KxM+c087vqebHEB5Tzs+c087vqebHEB5Tzs+NisTvqebHED1QFw+NisTvqebHED1QFw+Qb7KvaebHECcu3Q+Qb7KvaebHECcu3Q+D7dOvaebHEBJ54E+D7dOvaebHEBJ54E+t5GCM6ebHEDNcoQ+t5GCM6ebHEDNcoQ+LLdOPaebHEBJ54E+LLdOPaebHEBJ54E+Ub7KPaebHECcu3Q+Ub7KPaebHECcu3Q+PisTPqebHED1QFw+PisTPqebHED1QFw+e087PqebHEB5Tzs+e087PqebHEB5Tzs+90BcPqebHEA8KxM+90BcPqebHEA8KxM+nrt0PqebHEBMvso9nrt0PqebHEBMvso9TOeBPqebHEAht049TOeBPqebHEAht0490HKEPqebHEBSpoYy0HKEPqebHEBSpoYyTOeBPqebHEAZt069TOeBPqebHEAZt069nrt0PqebHEBGvsq9nrt0PqebHEBGvsq990BcPqebHEA4KxO+90BcPqebHEA4KxO+e087PqebHEB1Tzu+e087PqebHEB1Tzu+PisTPqebHEDyQFy+PisTPqebHEDyQFy+Ub7KPaebHECZu3S+Ub7KPaebHECZu3S+LLdOPaebHEBK54G+LLdOPaebHEBK54G+Y+91M0dIH0DNcoS+ELdOvUdIH0BK54G+Qb7KvUdIH0CZu3S+NisTvkdIH0DyQFy+c087vkdIH0B1Tzu+70BcvkdIH0A4KxO+l7t0vkdIH0BGvsq9R+eBvkdIH0AZt069ynKEvkdIH0BSpoYyR+eBvkdIH0Aht049l7t0vkdIH0BMvso970BcvkdIH0A8KxM+c087vkdIH0B5Tzs+NisTvkdIH0D1QFw+Qb7KvUdIH0Ccu3Q+ELdOvUdIH0BJ54E+Y+91M0dIH0DNcoQ+K7dOPUdIH0BJ54E+Ub7KPUdIH0Ccu3Q+PisTPkdIH0D1QFw+e087PkdIH0B5Tzs+90BcPkdIH0A8KxM+nrt0PkdIH0BMvso9TOeBPkdIH0Aht0490HKEPkdIH0BSpoYyTOeBPkdIH0AZt069nrt0PkdIH0BGvsq990BcPkdIH0A4KxO+e087PkdIH0B1Tzu+PisTPkdIH0DyQFy+Ub7KPUdIH0CZu3S+K7dOPUdIH0BK54G+GUgMssIV8D5CG5O/BCWWsOy6Pj3Ui4e/AAACsoOS1T76z5W/AADgsVGnuD6OVJe/AADAsa5wmj4Smpe/AACosaoveD7WnZa/AACIsaqOPT6QaZS/AABQsSQ/Bz7sEpG/AAAQsdCurj3Euoy/zoxTvuy6Pj0U8YS/qJdlvsMV8D6kR5C/yqNbvsyurj2EBoq/kGtiviQ/Bz5PSY6/aqFnvqiOPT6Gj5G/GBJrvqgveD72uJO/wJtsvq1wmj5XsJS/RC9svlCnuD4qbJS/zNBpvoKS1T4M75K/NHzPvvC6Pj3sdHq/TS7hvsIV8D6e6Ie/ZGvXvtCurj1kBIK/zhHeviQ/Bz7kB4a/CC7jvqqOPT55HYm/yo3mvqoveD7MJou/4g/ovq1wmj7UD4y/eqXnvlCnuD6bz4u/qlLlvoKS1T6aaIq/Y5wWv/i6Pj21Z2G/unQjv8IV8D4PoXS/zF4cv86urj1SBmq/kDIhvyM/Bz7GP3G/MOgkv6iOPT79zHa/LVsnv6gveD5Yd3q/cHMov6xwmj7JGny/MyYov1CnuD4xp3u/bnYmv4GS1T4AIXm/+LA/v/K6Pj34sD+/OwpQv8IV8D49ClC/iwVHv86urj2LBUe/XypNvyQ/Bz5gKk2/AuNRv6mOPT4E41G/BAFVv6kveD4GAVW/uWVWv6xwmj66ZVa/awNWv1CnuD5tA1a/4t1Tv4KS1T7j3VO/tGdhv+y6Pj1inBa/DqF0v8MV8D66dCO/UgZqv8yurj3MXhy/xj9xvyQ/Bz6QMiG//Mx2v6iOPT4w6CS/V3d6v6gveD4tWye/yBp8v61wmj5wcyi/MKd7v1CnuD4zJii/ACF5v4KS1T5vdia/7HR6v/C6Pj00fM++nuiHv8IV8D5NLuG+ZASCv9Curj1ka9e+5AeGvyQ/Bz7OEd6+eR2Jv6qOPT4ILuO+zCaLv6oveD7Kjea+1A+Mv61wmj7iD+i+m8+Lv1CnuD56pee+mmiKv4KS1T6qUuW+FPGEv+y6Pj3OjFO+pEeQv8MV8D6ol2W+hAaKv8yurj3Ko1u+T0mOvyQ/Bz6Qa2K+ho+Rv6iOPT5qoWe+9riTv6gveD4YEmu+V7CUv61wmj7Am2y+KmyUv1CnuD5EL2y+DO+Sv4KS1T7M0Gm+1IuHv+y6Pj18evGwQhuTv8IV8D4P2pixxLqMv9Curj0AAFCx7BKRvyQ/Bz4AAJCxkGmUv6qOPT4AAKix1p2Wv6oveD4AALixEpqXv65wmj4AAMCxjlSXv1GnuD4AAMCx+s+Vv4OS1T4AALCxFPGEv+y6Pj3OjFM+pEeQv8MV8D6nl2U+hAaKv8yurj3Ko1s+T0mOvyQ/Bz6Pa2I+ho+Rv6iOPT5qoWc+9riTv6gveD4YEms+V7CUv61wmj7Am2w+KmyUv1CnuD5DL2w+DO+Sv4KS1T7L0Gk+7HR6v/C6Pj0zfM8+nuiHv8MV8D5MLuE+ZASCv8yurj1ka9c+5AeGvyM/Bz7OEd4+eR2Jv6iOPT4HLuM+zCaLv6gveD7KjeY+1A+Mv6xwmj7iD+g+nM+Lv1CnuD56pec+m2iKv4KS1T6qUuU+tGdhv+y6Pj1inBY/DqF0v8MV8D66dCM/UgZqv8yurj3MXhw/xT9xvyQ/Bz6QMiE//Mx2v6iOPT4w6CQ/V3d6v6gveD4tWyc/yBp8v61wmj5wcyg/MKd7v1CnuD4zJig/ACF5v4KS1T5udiY/97A/v+y6Pj33sD8/OwpQv8MV8D47ClA/igVHv8yurj2KBUc/XipNvyQ/Bz5eKk0/AuNRv6iOPT4C41E/BAFVv6gveD4EAVU/uWVWv61wmj65ZVY/awNWv1CnuD5rA1Y/4d1Tv4KS1T7h3VM/YpwWv+y6Pj20Z2E/unQjv8MV8D4OoXQ/zF4cv8yurj1SBmo/kDIhvyQ/Bz7FP3E/MOgkv6iOPT78zHY/LVsnv6gveD5Xd3o/cHMov61wmj7IGnw/MyYov1CnuD4wp3s/bnYmv4KS1T4AIXk/NHzPvvC6Pj3sdHo/TS7hvsMV8D6e6Ic/ZGvXvsyurj1kBII/zhHeviM/Bz7kB4Y/CC7jvqiOPT55HYk/yo3mvqgveD7MJos/4g/ovqxwmj7UD4w/eqXnvlCnuD6bz4s/qlLlvoKS1T6aaIo/zoxTvuy6Pj0U8YQ/qJdlvsMV8D6kR5A/yqNbvsyurj2EBoo/kGtiviQ/Bz5PSY4/aqFnvqiOPT6Gj5E/GBJrvqgveD72uJM/wJtsvq1wmj5XsJQ/RC9svlCnuD4qbJQ/zNBpvoKS1T4M75I/BCWWsOy6Pj3Ui4c/GUgMssIV8D5CG5M/AAAQsdCurj3Euow/AABQsSQ/Bz7sEpE/AACIsaqOPT6QaZQ/AACosaoveD7WnZY/AADAsa5wmj4Smpc/AADgsVGnuD6OVJc/AAACsoOS1T76z5U/zoxTPuy6Pj0U8YQ/p5dlPsMV8D6kR5A/yqNbPsyurj2EBoo/j2tiPiQ/Bz5PSY4/aqFnPqiOPT6Gj5E/GBJrPqgveD72uJM/wJtsPq1wmj5XsJQ/Qy9sPlCnuD4qbJQ/y9BpPoKS1T4M75I/M3zPPvC6Pj3sdHo/TC7hPsIV8D6e6Ic/ZGvXPtCurj1kBII/zhHePiQ/Bz7kB4Y/By7jPqqOPT55HYk/yo3mPqoveD7MJos/4g/oPq1wmj7UD4w/eqXnPlCnuD6cz4s/qlLlPoKS1T6baIo/YpwWP+y6Pj20Z2E/unQjP8MV8D4OoXQ/zF4cP8yurj1SBmo/kDIhPyQ/Bz7FP3E/MOgkP6iOPT78zHY/LVsnP6gveD5Xd3o/cHMoP61wmj7IGnw/MyYoP1CnuD4wp3s/bnYmP4KS1T4AIXk/97A/P+y6Pj33sD8/OwpQP8MV8D47ClA/igVHP8yurj2KBUc/XipNPyQ/Bz5eKk0/AuNRP6iOPT4C41E/BAFVP6gveD4EAVU/uWVWP61wmj65ZVY/awNWP1CnuD5rA1Y/4d1TP4KS1T7h3VM/tGdhP+y6Pj1inBY/DaF0P8MV8D66dCM/UQZqP8yurj3MXhw/xT9xPyQ/Bz6QMiE/+8x2P6iOPT4v6CQ/Vnd6P6gveD4sWyc/xxp8P61wmj5wcyg/Lqd7P1CnuD4zJig//yB5P4KS1T5udiY/7HR6P/C6Pj0zfM8+nuiHP8IV8D5MLuE+ZQSCP9Curj1ka9c+5AeGPyQ/Bz7OEd4+eR2JP6qOPT4HLuM+zCaLP6oveD7KjeY+1A+MP61wmj7iD+g+nM+LP1CnuD56pec+m2iKP4KS1T6qUuU+FPGEP+y6Pj3OjFM+pEeQP8MV8D6nl2U+hAaKP8yurj3Jo1s+T0mOPyQ/Bz6Pa2I+ho+RP6iOPT5qoWc+9riTP6gveD4YEms+V7CUP61wmj7Am2w+KmyUP1CnuD5CL2w+DO+SP4KS1T7L0Gk+1IuHP+y6Pj18evGwQhuTP8IV8D4P2pixxLqMP9Curj0AAFCx7BKRPyQ/Bz4AAJCxkGmUP6qOPT4AAKix1p2WP6oveD4AALixEpqXP65wmj4AAMCxjlSXP1GnuD4AAMCx+s+VP4OS1T4AALCxFPGEP+y6Pj3OjFO+pEeQP8MV8D6ol2W+hAaKP8yurj3Ko1u+T0mOPyQ/Bz6Qa2K+ho+RP6iOPT5qoWe+9riTP6gveD4YEmu+V7CUP61wmj7Am2y+KmyUP1CnuD5EL2y+DO+SP4KS1T7M0Gm+7HR6P/C6Pj00fM++nuiHP8IV8D5NLuG+ZASCP9Curj1ka9e+5AeGPyQ/Bz7OEd6+eR2JP6qOPT4ILuO+zCaLP6oveD7Kjea+1A+MP61wmj7iD+i+m8+LP1CnuD56pee+mmiKP4KS1T6qUuW+tGdhP+y6Pj1inBa/DqF0P8IV8D66dCO/UgZqP9Curj3MXhy/xj9xPyQ/Bz6QMiG//Mx2P6qOPT4w6CS/V3d6P6oveD4tWye/yBp8P65wmj5wcyi/MKd7P1GnuD4zJii/ASF5P4OS1T5vdia/+LA/P/K6Pj34sD+/OwpQP8IV8D49ClC/iwVHP86urj2LBUe/XypNPyQ/Bz5gKk2/A+NRP6mOPT4E41G/BAFVP6kveD4GAVW/uWVWP6xwmj67ZVa/awNWP1CnuD5sA1a/4t1TP4KS1T7j3VO/Y5wWP/i6Pj21Z2G/unQjP8IV8D4PoXS/zF4cP86urj1SBmq/kDIhPyM/Bz7GP3G/MOgkP6iOPT79zHa/LFsnP6gveD5Yd3q/cHMoP6xwmj7IGny/MyYoP1CnuD4xp3u/bnYmP4GS1T4AIXm/M3zPPvC6Pj3sdHq/TC7hPsIV8D6e6Ie/ZGvXPtCurj1lBIK/zhHePiQ/Bz7kB4a/CC7jPqqOPT56HYm/yo3mPqoveD7NJou/4g/oPq1wmj7UD4y/eqXnPlCnuD6bz4u/qlLlPoKS1T6baIq/zoxTPuy6Pj0U8YS/p5dlPsMV8D6kR5C/yaNbPsyurj2EBoq/j2tiPiQ/Bz5PSY6/aqFnPqiOPT6Gj5G/GBJrPqgveD72uJO/wJtsPq1wmj5XsJS/Qi9sPlCnuD4qbJS/y9BpPoKS1T4M75K/JIfwMtYXGEA49lm+ggH0sl+aCUBmhYm+AOCPMsV2FkAAD1u+AADOMb2iFECJTl6+AACCsbmtEkDilGO+AABVsvuqEEAlrmq+AACmskmuDkB8VHO+AMDSsjHLDEDOMn2+AMDsskMUC0AD9IO+5qFWvV+aCUDu4Ia+wBYqvdYXGEAQxlW+RPFNvUMUC0DuaoG+H5ZFvTHLDEBRVXi+q+I9vUmuDkCJp26+riI3vfuqEEC/K2a+jJgxvbmtEkBnNV++yHotvb2iFEABCVq+3vEqvcV2FkBw2Va+G4LSvV+aCUAWG36+GNKmvdYXGEDUXkm+OPzJvUMUC0BS0XO+LsrBvTHLDEDD7Gm+nTy6vUmuDkC/zmC+1J2zvfuqEED30Fi+9C6uvbmtEkAIQlK+cCWqvb2iFEB6Yk2+AKmnvcV2FkA8Ykq+J84Yvl+aCUBusGS+qC/yvdYXGECEOjW+Wp4SvkMUC0Aablu+aasMvjHLDEDchlK+3C8HvkmuDkBNUkq+pGECvvuqEEAmIUO+CuD8vbmtEkAmOj2+nAP3vb2iFEBg1zi+pmfzvcV2FkD6Iza+9ntCvl+aCUDye0K+TB8avtYXGEBMHxq+KZw6vkMUC0AlnDq+1AkzvjHLDEDQCTO+cg8svkmuDkBvDyy+rPElvvuqEECp8SW+rOwgvrmtEkCp7CC+1DEdvr2iFEDSMR2+1+UavsV2FkDW5Rq+cbBkvl+aCUAkzhi+hDo1vtYXGECoL/K9HG5bvkMUC0BWnhK+3oZSvjHLDEBlqwy+TlJKvkmuDkDYLwe+JiFDvvuqEECgYQK+Jjo9vrmtEkAE4Py9YNc4vr2iFECYA/e9+SM2vsV2FkCiZ/O9Ght+vl+aCUATgtK91F5JvtYXGEAY0qa9VdFzvkMUC0Aw/Mm9x+xpvjHLDEAnysG9ws5gvkmuDkCXPLq9+dBYvvuqEEDOnbO9CkJSvrmtEkDvLq69e2JNvr2iFEBtJaq9PGJKvsV2FkD+qKe97uCGvl+aCUDWoVa9DMZVvtYXGEDAFiq97mqBvkMUC0A08U29UlV4vjHLDEAQlkW9iqduvkmuDkCf4j29vytmvvuqEECkIje9ZjVfvrmtEkCEmDG9AAlavr2iFEDCei29btlWvsV2FkDc8Sq9ZYWJvl+aCUBNPbsyNPZZvtYXGEBygskyAvSDvkMUC0AAAL4yzTJ9vjHLDEAAgMAyelRzvkmuDkAAgMMyI65qvvuqEEAAgMUy4JRjvrmtEkAAgMcyhk5evr2iFEAAQMgy/A5bvsV2FkAAQMky7uCGvl+aCUDioVY9DMZVvtYXGEDMFio97mqBvkMUC0BA8U09UlV4vjHLDEAclkU9iqduvkmuDkCs4j09vytmvvuqEECwIjc9ZjVfvrmtEkCQmDE9AAlavr2iFEDOei09btlWvsV2FkDo8So9Ght+vl+aCUAagtI91F5JvtYXGEAg0qY9VdFzvkMUC0A3/Mk9xuxpvjHLDEAuysE9ws5gvkmuDkCePLo9+dBYvvuqEEDWnbM9CkJSvrmtEkD3Lq49e2JNvr2iFEB0Jao9PGJKvsV2FkAGqac9cbBkvl+aCUAozhg+hDo1vtYXGECwL/I9HG5bvkMUC0BanhI+3oZSvjHLDEBpqww+TlJKvkmuDkDcLwc+JiFDvvuqEECkYQI+Jjo9vrmtEkAM4Pw9YNc4vr2iFECgA/c9+SM2vsV2FkCqZ/M99ntCvl+aCUD2e0I+TB8avtYXGEBQHxo+KZw6vkMUC0ApnDo+0wkzvjHLDEDUCTM+cg8svkmuDkBzDyw+rPElvvuqEECt8SU+rOwgvrmtEkCt7CA+1DEdvr2iFEDWMR0+1+UavsV2FkDa5Ro+J84Yvl+aCUBxsGQ+qC/yvdYXGECIOjU+WZ4SvkMUC0Acbls+aKsMvjHLDEDfhlI+3C8HvkmuDkBQUko+omECvvuqEEAoIUM+CeD8vbmtEkApOj0+mwP3vb2iFEBj1zg+pGfzvcV2FkD8IzY+G4LSvV+aCUAaG34+GNKmvdYXGEDYXkk+OPzJvUMUC0BW0XM+LsrBvTHLDEDH7Gk+nTy6vUmuDkDDzmA+1J2zvfuqEED60Fg+9C6uvbmtEkAMQlI+cCWqvb2iFEB+Yk0+/6invcV2FkBAYko+5qFWvV+aCUDu4IY+wBYqvdYXGEAQxlU+RPFNvUMUC0DuaoE+H5ZFvTHLDEBRVXg+rOI9vUmuDkCKp24+riI3vfuqEEDAK2Y+jZgxvbmtEkBoNV8+yHotvb2iFEACCVo+3vEqvcV2FkBy2VY+ggH0sl+aCUBlhYk+JIfwMtYXGEA49lk+AMDsskMUC0AD9IM+AIDSsjHLDEDNMn0+AACmskmuDkB7VHM+AABWsvuqEEAlrmo+AACCsbmtEkDhlGM+AADPMb2iFECJTl4+AOCPMsV2FkD+Dls+0qFWPV+aCUDu4IY+zBYqPdYXGEAQxlU+MPFNPUMUC0DuaoE+DpZFPTHLDEBSVXg+nuI9PUmuDkCKp24+pCI3PfuqEEDAK2Y+iJgxPbmtEkBoNV8+yHotPb2iFEACCVo+5PEqPcV2FkBy2VY+E4LSPV+aCUAaG34+INKmPdYXGEDYXkk+MPzJPUMUC0BV0XM+J8rBPTHLDEDH7Gk+mDy6PUmuDkDCzmA+0Z2zPfuqEED60Fg+8y6uPbmtEkAMQlI+ciWqPb2iFEB+Yk0+BKmnPcV2FkBAYko+JM4YPl+aCUBxsGQ+sC/yPdYXGECIOjU+Vp4SPkMUC0Acbls+ZasMPjHLDEDehlI+2S8HPkmuDkBQUko+oWECPvuqEEAoIUM+COD8PbmtEkAoOj0+nAP3Pb2iFEBj1zg+qWfzPcV2FkD8IzY+8ntCPl+aCUD2e0I+UB8aPtYXGEBQHxo+JZw6PkMUC0ApnDo+0AkzPjHLDEDUCTM+cA8sPkmuDkBzDyw+qvElPvuqEECt8SU+q+wgPrmtEkCu7CA+1TEdPr2iFEDWMR0+2eUaPsV2FkDa5Ro+bbBkPl+aCUAnzhg+iDo1PtYXGECwL/I9GG5bPkMUC0BZnhI+24ZSPjHLDEBpqww+TFJKPkmuDkDcLwc+JSFDPvuqEECkYQI+Jjo9PrmtEkAM4Pw9Ytc4Pr2iFECgA/c9/CM2PsV2FkCqZ/M9Fht+Pl+aCUAagtI92F5JPtYXGEAg0qY9UdFzPkMUC0A3/Mk9w+xpPjHLDEAuysE9wM5gPkmuDkCePLo9+NBYPvuqEEDWnbM9CkJSPrmtEkD3Lq49fGJNPr2iFEB0Jao9PmJKPsV2FkAGqac97uCGPl+aCUDioVY9FMZVPtYXGEDMFio97mqBPkMUC0BA8U09UlV4PjHLDEAclkU9iqduPkmuDkCr4j09wCtmPvuqEECvIjc9ajVfPrmtEkCQmDE9BAlaPr2iFEDOei09dNlWPsV2FkDo8So9ZoWJPl+aCUBNPbsyPPZZPtYXGEBygskyA/SDPkMUC0AAAL4yzjJ9PjHLDEAAgMAyfVRzPkmuDkAAgMMyJ65qPvuqEEAAgMUy5JRjPrmtEkAAgMcyi05ePr2iFEAAQMgyAw9bPsV2FkAAQMky7uCGPl+aCUDXoVa9FMZVPtYXGEDAFiq97mqBPkMUC0A18U29UlV4PjHLDEARlkW9iqduPkmuDkCg4j29wCtmPvuqEECkIje9ajVfPrmtEkCEmDG9BAlaPr2iFEDCei29dNlWPsV2FkDc8Sq9Fht+Pl+aCUATgtK92F5JPtYXGEAY0qa9UtFzPkMUC0Aw/Mm9w+xpPjHLDEAmysG9wM5gPkmuDkCWPLq9+NBYPvuqEEDPnbO9CkJSPrmtEkDvLq69fGJNPr2iFEBtJaq9P2JKPsV2FkD+qKe9bbBkPl+aCUAkzhi+iDo1PtYXGECoL/K9GG5bPkMUC0BWnhK+24ZSPjHLDEBlqwy+TFJKPkmuDkDYLwe+JCFDPvuqEECgYQK+Jjo9PrmtEkAE4Py9Ytc4Pr2iFECYA/e9/CM2PsV2FkCiZ/O98ntCPl+aCUDye0K+UB8aPtYXGEBMHxq+JZw6PkMUC0AlnDq+0AkzPjHLDEDQCTO+bw8sPkmuDkBvDyy+qvElPvuqEECp8SW+q+wgPrmtEkCq7CC+1TEdPr2iFEDSMR2+2eUaPsV2FkDW5Rq+JM4YPl+aCUBusGS+sC/yPdYXGECEOjW+Vp4SPkMUC0Aablu+ZqsMPjHLDEDchlK+2i8HPkmuDkBMUkq+omECPvuqEEAlIUO+CeD8PbmtEkAlOj2+ngP3Pb2iFEBg1zi+qmfzPcV2FkD5Iza+E4LSPV+aCUAWG36+INKmPdYXGEDUXkm+MPzJPUMUC0BR0XO+J8rBPTHLDEDD7Gm+mDy6PUmuDkC/zmC+0Z2zPfuqEED20Fi+8y6uPbmtEkAIQlK+ciWqPb2iFEB6Yk2+BKmnPcV2FkA8Ykq+06FWPV+aCUDu4Ia+zBYqPdYXGEAQxlW+MvFNPUMUC0DuaoG+DpZFPTHLDEBSVXi+nuI9PUmuDkCKp26+pCI3PfuqEEDAK2a+iJgxPbmtEkBoNV++yHotPb2iFEACCVq+5PEqPcV2FkBy2Va+AAAAAP//f78AAACAAAAAANrkSL+yrB6/saX3vdTkSL8zoBu/AAAAAP//f78AAACAg+NyvtDkSL+qmBK/AAAAAP//f78AAACAWU+wvs/kSL/q7gO/AAAAAP//f78AAACAX2bgvtTkSL9fZuC+AAAAAP//f78AAACA4+4Dv9fkSL9PT7C+AAAAAP//f78AAACAp5gSv9PkSL+F43K+AAAAAP//f78AAACANqAbv9PkSL+ypfe9AAAAAP//f78AAACAu6wev9PkSL8WphsxAAAAAP//f78AAACAN6Abv9PkSL+2pfc9AAAAAP//f78AAACAp5gSv9PkSL+H43I+AAAAAP//f78AAACA5e4Dv9TkSL9VT7A+AAAAAP//f78AAACAYmbgvtPkSL9hZuA+AAAAAP//f78AAACAV0+wvtPkSL/n7gM/AAAAAP//f78AAACAhONyvtLkSL+pmBI/AAAAAP//f78AAACAsaX3vdTkSL8zoBs/AAAAAP//f78AAACAAAAAAP//f78AAACAAAAAANrkSL+yrB4/AAAAAP//f78AAACAsqX3PdXkSL8yoBs/AAAAAP//f78AAACAheNyPtLkSL+qmBI/AAAAAP//f78AAACAWU+wPtDkSL/o7gM/AAAAAP//f78AAACAZmbgPtLkSL9lZuA+AAAAAP//f78AAACA5O4DP9TkSL9UT7A+AAAAAP//f78AAACAp5gSP9TkSL+G43I+AAAAAP//f78AAACAN6AbP9PkSL+2pfc9AAAAAP//f78AAACAu6weP9PkSL8WphsxAAAAAP//f78AAACANqAbP9PkSL+ypfe9AAAAAP//f78AAACAp5gSP9PkSL+F43K+AAAAAP//f78AAACA4+4DP9fkSL9PT7C+AAAAAP//f78AAACAXWbgPtXkSL9dZuC+AAAAAP//f78AAACAW0+wPs7kSL/t7gO/AAAAAP//f78AAACAjONyPs7kSL+umBK/AAAAAP//f78AAACAsqX3PdXkSL8yoBu/hOhSqwAAgL/zia62FKV1MwAAAAD//3+/z8VHvnWuKjS+FHu/pAwjtgAAgL9qL6u2Du/DvnWuqjRgg2y/qCnttf//f7+7QKG2zjkOv9kCgDQ621S/AAAAAAAAgL+uH5G28gQ1v9cCgDTzBDW/AAAAAAAAgL/Q1Xa2NttUv0AEwDTUOQ6/oilttgAAgL/s70G2YoNsv5Kv2jQE78O+ON+xtgAAgL8IlgW2wBR7v21a4TSqxUe+qSnttgAAgL/8M4i1//9/v9Wv4jQAAACABzoUtwAAgL/gNgYqwBR7v21a4TSqxUc+P9+xtgAAgL/9M4g1YoNsv5Kv2jQE78M+Ot+xtgAAgL8IlgU2NttUv0AEwDTUOQ4/oylttgAAgL/v70E28gQ1v9cCgDTzBDU/tinttf//f7/Y1XY2zjkOv9kCgDQ621Q/Qt8xtgAAgL+0H5E28e7DvnmuqjRlg2w/SN8xtgAAgL/GQKE2ksVHvnmuKjTAFHs/dmcFtgAAgL9xL6s2G7w/qgAAgL/1ia42FKV1MwAAAAD//38/pSltNAAAgL9sL6s2lsVHPn2uKrTCFHs/lyntNQAAgL/IQKE28e7DPnauqrRmg2w/qSltNgAAgL+zH5E2zzkOP9kCgLQ621Q/sSntNf//f7/U1XY28wQ1P9gCgLTzBDU/pSntNQAAgL/v70E2NttUP0IEwLTUOQ4/oSntNf//f78VlgU2XoNsP42v2rQV78M+qiltNv//f78dNIg1vhR7P2la4bTPxUc+CzoUNwAAgL/uFGYpAACAP9av4rQAAACArSntNgAAgL8fNIi1vhR7P2la4bTPxUe+PN+xNv//f78VlgW2XoNsP42v2rQV78O+pSltNgAAgL/v70G2NttUP0IEwLTUOQ6/qyntNf//f7/S1Xa28wQ1P9gCgLTzBDW/PN8xNgAAgL+vH5G2zzkOP9kCgLQ621S/lyltNf//f7+9QKG2De/DPnKuqrRgg2y/Md8xNf//f79hL6u20cVHPnauKrS+FHu/OGGCqwAAgL/zia62Y8OjMgAAAAD//3+/7MVHvgAAAAC8FHu/pQwjtgAAgL9qL6u2I+/DvgAAAABcg2y/pinttf//f7+8QKG23zkOvwAAAAAt21S/AAAAAAAAgL+tH5G2BAU1vwAAAADhBDW/AAAAAP//f7/O1Xa2ONtUvwAAAADROQ6/nSlttgAAgL/t70G2YINsvwAAAAAS78O+PN+xtgAAgL8KlgW2vxR7vwAAAAC5xUe+pCnttgAAgL8ANIi1AACAvwAAAAAAAACACDoUtwAAgL8AAACAwBR7vwAAAACXxUc+Pt+xtgAAgL//M4g1Y4NsvwAAAAAD78M+O9+xtgAAgL8JlgU2ONtUvwAAAADROQ4/oClttgAAgL/w70E2BAU1vwAAAADhBDU/tCnttQAAgL/X1XY23zkOvwAAAAAt21Q/RN8xtgAAgL+0H5E27u7DvgAAAABlg2w/RN8xtgAAgL/FQKE2m8VHvgAAAADCFHs/emcFtv//f79wL6s2O2GCqgAAgL/1ia42PbTMMgAAAAAAAIA/miltNP//f79rL6s2msVHPgAAAADCFHs/qyntNQAAgL/HQKE27u7DPgAAAABng2w/qSltNgAAgL+zH5E23zkOPwAAAAAt21Q/sSntNQAAgL/W1XY2BAU1PwAAAADhBDU/nintNQAAgL/w70E2ONtUPwAAAADROQ4/ointNf//f78VlgU2YINsPwAAAAAR78M+sCltNgAAgL8dNIg1vxR7PwAAAADDxUc+CjoUNwAAgL87YYKp//9/PwAAAAAAAACArCntNgAAgL8fNIi1vRR7PwAAAADlxUe+P9+xNgAAgL8XlgW2XINsPwAAAAAg78O+oCltNgAAgL/w70G2ONtUPwAAAADROQ6/rSntNQAAgL/S1Xa2BAU1PwAAAADhBDW/PN8xNgAAgL+uH5G23zkOPwAAAAAt21S/miltNf//f7+9QKG2I+/DPgAAAABcg2y/NN8xNQAAgL9iL6u26sVHPgAAAAC8FHu/Y8MjMgAAAAD//3+/7MVHvgAAAAC8FHu/I+/DvgAAAABcg2y/3zkOvwAAAAAt21S/BAU1vwAAAADhBDW/ONtUvwAAAADROQ6/YINsvwAAAAAS78O+vxR7vwAAAAC5xUe+AACAvwAAAAAAAACAwBR7vwAAAACXxUc+Y4NsvwAAAAAD78M+ONtUvwAAAADROQ4/BAU1vwAAAADhBDU/3zkOvwAAAAAt21Q/7u7DvgAAAABlg2w/m8VHvgAAAADAFHs/FqV1MgAAAAAAAIA/lsVHPgAAAADAFHs/7u7DPgAAAABng2w/3zkOPwAAAAAt21Q/BAU1PwAAAADhBDU/ONtUPwAAAADROQ4/YINsPwAAAAAR78M+vxR7PwAAAADDxUc+//9/PwAAAAAAAACAvRR7PwAAAADlxUe+XINsPwAAAAAg78O+ONtUPwAAAADROQ6/BAU1PwAAAADhBDW/3zkOPwAAAAAt21S/I+/DPgAAAABcg2y/6cVHPgAAAAC8FHu/xLcPs+831z7rSGi/M9GjMPzKQL+6bCi/PuD3sZQrlT7c5HS/sS3jMtXL9j1qIn6/AAAAAGzaPb2QuX+/AAAAAFkPVb66ZXq/dwClsslyur4kbG6/6ll3shuIA78qoFu/LsmkMWOkJ79LeUG/oW4DvvvKQL9BMCW/LkQ1vtU31z5W0mO/u/oWvmakJ7+YwT2/J2Mrvh6IA7/TZ1e/Qg46vsFyur5a12m/fmZDvlsPVb4HlnW/yY5HvifaPb2oz3q/GlFGvkDM9j1UQHm/Ihs/voIrlT4+MHC/HOiAvvvKQL+tmhu/dsixvs431z52mla/DxSUvmakJ78ZvzK/ERioviiIA79W6Eq/Bnu2vslyur4MRly/U6W/vj8PVb5JVme/JbnDvnjaPb1NQmy/jIHCvvzL9j0jymq/B2+7vnMrlT6sQGK/vSS7vv7KQL8/Cgy/8AwBv9U31z5MI0G/+/nWvmekJ78Z3iC/6Qj0viaIA7+rnDa/2nUEv8tyur6zPUa/Ah0Lv0EPVb6lMlC/txIOvxDbPb2hoFS/hDANv9nL9j0ZTlO/SQ4Iv4UrlT44n0u/PTDuvgPLQL85MO6+DUAkv+I31z4OQCS/fc4Iv2mkJ797zgi/e0wbvyCIA797TBu/EZcov8Fyur4Tlyi/ww4xv00PVb7GDjG/JdM0v77aPb0i0zS/P7Mzv8TL9j1BszO/jiotv38rlT6PKi2/PAoMvwLLQL+1JLu+RyNBv+I31z70DAG/Gt4gv2ekJ7/8+da+sJw2vx+IA7/rCPS+tT1Gv7xyur7cdQS/pDJQv0YPVb4DHQu/n6BUv4LaPb25Eg6/GE5Tv8nL9j2FMA2/OZ9Lv3grlT5ODgi/qZobv/7KQL8b6IC+cJpWv9831z56yLG+GL8yv2akJ78QFJS+WehKvyGIA78VGKi+DUZcv8Fyur4De7a+SFZnv1oPVb5Qpb++TEJsv2raPb0lucO+JMpqvwvM9j2JgcK+qUBiv4ArlT4Jb7u+QTAlv/vKQL+ebgO+UtJjv+c31z4cRDW+mcE9v2akJ7+7+ha+0GdXvyKIA78tYyu+WNdpv8Vyur5JDjq+B5Z1v2IPVb6BZkO+qs96v1raPb3Cjke+VUB5vxTM9j0PUUa+PTBwv4UrlT4hGz++vWwov/vKQL800aMw7Ehov+831z4AAACATXlBv2OkJ78vySQxJaBbvyOIA7/nWfcxJWxuv8Vyur54AKUxuGV6v2QPVb4MFyWxkbl/v3PaPb0AAACAaSJ+v/7L9j1/OCUx3eR0v4IrlT4AAACAQTAlv/vKQL+gbgM+UtJjv+o31z4kRDU+mcE9v2WkJ7+7+hY+0mdXvyOIA78sYys+WNdpv8lyur5NDjo+B5Z1v2IPVb6CZkM+qs96v5/aPb3Djkc+VUB5v/HL9j0CUUY+PzBwv4orlT4SGz8+qZobv/7KQL8b6IA+cJpWv+U31z5zyLE+Gb8yv2WkJ78TFJQ+WehKvyCIA78XGKg+DEZcv8Ryur4Ge7Y+SFZnv1kPVb5Qpb8+TEJsv+naPb0jucM+JMpqv9nL9j2FgcI+qUBiv4krlT4Db7s+OwoMvwLLQL+6JLs+RyNBv+I31z7yDAE/Gd4gv2WkJ78D+tY+rJw2vyCIA7/tCPQ+tj1Gv71yur7cdQQ/pTJQvz0PVb4DHQs/n6BUv+PaPb25Eg4/Fk5Tv9XL9j2KMA0/NZ9Lv4ErlT5PDgg/PTDuvgPLQL88MO4+D0Akv9831z4NQCQ/f84Iv2WkJ7+Azgg/ekwbvyGIA796TBs/EJcov8dyur4Slyg/xA4xv0MPVb7GDjE/JdM0v9vaPb0k0zQ/PbMzvwDM9j1AszM/jSotv4wrlT6OKi0/vCS7vgLLQL87Cgw/8wwBv9w31z5II0E/A/rWvmSkJ78a3iA/7Qj0viSIA7+qnDY/3HUEv9Fyur6yPUY/BR0LvzsPVb6kMlA/uRIOvwTbPb2eoFQ/hTANv/vL9j0XTlM/SQ4Iv5QrlT43n0s/GeiAvv7KQL+omhs/csixvtQ31z51mlY/DxSUvmikJ78XvzI/ExiovieIA79W6Eo/B3u2vsFyur4MRlw/WaW/visPVb5JVmc/LLnDvnraPb1MQmw/ioHCvvfL9j0jymo/BW+7vnkrlT6tQGI/oG4DvvzKQL9BMCU/JEQ1vtM31z5X0mM/vPoWvmekJ7+YwT0/JGMrvh6IA7/TZ1c/QA46vrlyur5c12k/gGZDvkwPVb4IlnU/y45HvijaPb2oz3o/HFFGvkLM9j1UQHk/Ihs/voIrlT4+MHA/AAAAAPzKQL+6bCg/nF/2Me831z7rSGg/L8mkMWOkJ79NeUE/nOYkMRuIA78qoFs/dwClsclyur4kbG4/DhelsVoPVb66ZXo/Ir/3sW3aPb2QuX8/gTilMtXL9j1qIn4/Lui5MpQrlT7c5HQ/om4DPvvKQL9DMCU/F0Q1PgE41z5O0mM/u/oWPmekJ7+YwT0/JWMrPiOIA7/QZ1c/Qw46Pslyur5Y12k/fmZDPlsPVb4HlnU/xY5HPifaPb2qz3o/DlFGPq7L9j1WQHk/FBs/PoorlT4/MHA/G+iAPvrKQL+tmhs/acixPv431z5smlY/EhSUPmSkJ78ZvzI/FBioPiaIA79V6Eo/B3u2Pslyur4KRlw/V6W/PjsPVb5IVmc/KLnDPnTaPb1MQmw/iYHCPrDL9j0lymo/A2+7PpIrlT6nQGI/viS7Pv7KQL8/Cgw/8AwBP+w31z5GI0E/BfrWPmGkJ78c3iA/7gj0PiWIA7+qnDY/3HUEP9Fyur6xPUY/BB0LPzwPVb6kMlA/uBIOPwTbPb2eoFQ/hzANP7DL9j0YTlM/Sw4IP5MrlT41n0s/PzDuPgLLQL89MO4+DkAkP9831z4OQCQ/gc4IP2SkJ79/zgg/fUwbPx2IA795TBs/FJcoP8Jyur4Plyg/xw4xP1EPVb7DDjE/KdM0P9zaPb0i0zQ/QLMzP+/L9j09szM/jSotP4grlT6OKi0/OgoMPwLLQL+5JLs+RSNBP+c31z70DAE/Gd4gP2SkJ78D+tY+sJw2PxqIA7/xCPQ+tj1GP7Ryur7cdQQ/ozJQP04PVb4CHQs/nqBUP/LaPb26Eg4/FE5TP7LL9j2MMA0/NZ9LP3wrlT5QDgg/ppobPwLLQL8a6IA+bZpWP+w31z52yLE+Gb8yP2SkJ78VFJQ+XehKPxuIA78eGKg+DEZcP7xyur4Ie7Y+RlZnP2APVb5apb8+S0JsP/LaPb0vucM+IspqP83L9j2PgcI+qEBiP4srlT4Ib7s+QDAlP/7KQL+dbgM+UdJjP+w31z4jRDU+msE9P2akJ7+6+hY+02dXPyCIA78wYys+WNdpP8Zyur5MDjo+B5Z1P2IPVb6CZkM+qs96P5jaPb3Fjkc+VUB5P/XL9j3+UEY+PTBwP4wrlT4OGz8+vGwoP/vKQL800aMw7EhoP+431z69PySxS3lBP2OkJ78uySQxJaBbPySIA7+a5iQxJWxuP8Vyur54AKUxuGV6P2QPVb4MFyUxkbl/P3PaPb0AAACAaSJ+P/7L9j1/OCWx3uR0P4ErlT4pQCWxQzAlP/vKQL+fbgO+UtJjP+c31z4kRDW+mcE9P2akJ7+7+ha+0GdXPyOIA78tYyu+WNdpP8hyur5PDjq+B5Z1P2IPVb6EZkO+qs96P1vaPb3Cjke+VUB5PxDM9j0QUUa+PTBwP4QrlT4iGz++qZobP/zKQL8d6IC+cJpWP+Y31z5yyLG+GL8yP2akJ78TFJS+V+hKPyKIA78XGKi+DUZcP8Fyur4Ge7a+R1ZnP1YPVb5Opb++TkJsP2raPb0kucO+JMpqPwfM9j2IgcK+qUBiP4UrlT4Db7u+PQoMPwDLQL+4JLu+RiNBP+g31z7yDAG/Gt4gP2ekJ7/++da+r5w2PyGIA7/qCPS+uD1GP7lyur7adQS/pzJQP0UPVb7/HAu/oaBUP6baPb26Eg6/GE5TP7jL9j2GMA2/OJ9LP3grlT5KDgi/PDDuPgTLQL85MO6+DUAkP+I31z4OQCS/fc4IP2mkJ797zgi/ekwbPyWIA796TBu/FJcoP7Vyur4Vlyi/xA4xPz0PVb7FDjG/JdM0P+faPb0l0zS/QrMzP63L9j0+szO/kCotP28rlT6PKi2/uSS7PgLLQL87Cgy/7wwBP+Y31z5KI0G//vnWPmmkJ78X3iC/6wj0PiaIA7+rnDa/3nUEP8Fyur60PUa/Ah0LPy0PVb6lMlC/uRIOPw/bPb2eoFS/iDANP47L9j0YTlO/TQ4IP3orlT43n0u/GOiAPv/KQL+pmhu/acixPvc31z5umla/DRSUPmikJ78YvzK/FxioPiWIA79X6Eq/A3u2Ps9yur4JRly/U6W/PioPVb5JVme/KLnDPujZPb1MQmy/jYHCPo7L9j0kymq/A2+7PoArlT6pQGK/oG4DPvzKQL9BMCW/IkQ1PgE41z5O0mO/tPoWPmekJ7+YwT2/HWMrPiOIA7/QZ1e/MQ46PtFyur5X12m/dmZDPkwPVb4KlnW/yY5HPpnZPb2oz3q/F1FGPovL9j1XQHm/GBs/PoArlT4+MHC/VWB1Mnl1rDx68X+/aTgwNNZJ5D7vJGW/2LVbNKt8nD1nQH+/82jMMqDbDT4XiH2/AAAAAHC7Qz6iR3u/QCK0NHopdT4Hjni/F0cwtOcAkz6oOHW/PtEEtCz4rD7w8nC/n/K8NMvGyj4dEWu/xdAyvsJJ5D7LvWC/h7pHvrh0rDx/Bnu/DXA3vrzGyj7UjGa/Mgc8vi74rD6yUWy/n1w/vtsAkz5rgnC/fPZBvmkpdT5jx3O/3xZEvnG7Qz6Zc3a/jdhFvq3bDT77qHi/KTBHvot8nD3XWHq/HGGvvr5J5D6qs1O/C+TDvop1rDzvdWy/pumzvrzGyj5nLFm/M2q4vi74rD6Sm16/KK+7vuIAkz4UjmK/NDy+vnYpdT5+omW/PFLAvn+7Qz79Jmi/ZQvCvq/bDT6QO2q/clzDvp58nD1d0mu/k5z+vr1J5D7Mhj6/1DEOv+F1rDwXz1S/qZgCv8DGyj5rc0O/RN0FvzT4rD5vV0i/3DwIv+AAkz7g5Eu/5hYKv4wpdT51qk6/gZoLv5W7Qz597lC/3NoMv6DbDT65zVK/i88Nv4t8nD3NO1S/lwciv7lJ5D6KByK/wPo0v0d1rDyc+jS/qjcmv8HGyj6iNya/bGAqvz34rD5oYCq/2WUtv9gAkz7CZS2/NcEvv3QpdT49wS+/ga4xv5W7Qz6ArjG/OkYzv6nbDT4ERjO/mn00v3R8nD1ZfTS/zoY+v8JJ5D6OnP6+Ks9Uv/90rDy4MQ6/cHNDv8PGyj6emAK/fFdIvzP4rD4x3QW/5ORLv+AAkz7VPAi/aKpOv30pdT76Fgq/f+5Qv367Qz57mgu/0c1Sv6zbDT632gy/7TtUv3h8nD1dzw2/q7NTv79J5D4TYa+++HVsvzp1rDze48O+cixZv7jGyj5w6bO+n5tevy34rD7zabi+EY5iv/AAkz4ir7u+faJlv4QpdT4/PL6+ASdov4K7Qz4lUsC+lDtqv8DbDT5YC8K+ZNJrv418nD1RXMO+yr1gv9RJ5D6i0DK+ggZ7v3Z1rDxDuke+1Yxmv8fGyj7Abze+s1Fsvz34rD7nBjy+aoJwv/wAkz5jXD++Zsdzv2wpdT409kG+nHN2v3q7Qz67FkS++ah4v8HbDT6H2EW+2Fh6v618nD0EMEe+6CRlv/JJ5D4AAACAevF/v4d1rDwAAACAFhFrv+XGyj4AAACA7fJwvzH4rD6EM/Wzojh1vwIBkz4BgSOxBY54v4ApdT4RZvozokd7v2K7Qz6uiCOxFoh9v7jbDT4AAACAZ0B/v758nD0AAACAyb1gv9JJ5D6p0DI+ggZ7v3d1rDxEukc+1Ixmv8rGyj6+bzc+uFFsvyb4rD7LBjw+aYJwv/YAkz5jXD8+Ysdzv5cpdT5T9kE+nXN2v227Qz6gFkQ++qh4v7XbDT5s2EU+2Fh6v658nD0DMEc+q7NTv75J5D4UYa8+93Vsv0p1rDze48M+cixZv7rGyj5w6bM+nZtevzD4rD76abg+EY5iv+wAkz4hr7s+faJlv4UpdT43PL4+ACdov4e7Qz4tUsA+kztqv8PbDT5eC8I+ZdJrv5N8nD1SXMM+zIY+v8JJ5D6PnP4+Ks9Uvwx1rDy3MQ4/cHNDv8bGyj6emAI/dFdIvz74rD453QU/4+RLv+UAkz7VPAg/bqpOv3QpdT7yFgo/e+5Qv4i7Qz6Fmgs/yc1Sv7bbDT7C2gw/6ztUv3R8nD1dzw0/eAciv9xJ5D6eByI/wPo0v9F0rDye+jQ/ljcmv9fGyj6vNyY/YGAqvzj4rD5zYCo/v2Utv/IAkz7ZZS0/NMEvv4EpdT4+wS8/gK4xv4u7Qz6BrjE/HkYzv73bDT4hRjM/fX00v3x8nD12fTQ/Ypz+vtdJ5D7Uhj4/0zEOv7h0rDwXz1Q/lZgCv8/Gyj50c0M/Lt0Fvy/4rD59V0g/xzwIv+8Akz7s5Es/9RYKv3opdT5rqk4/gJoLv4m7Qz597lA/stoMv8PbDT7UzVI/ac8Nv3d8nD3iO1Q/LGGvvsRJ5D6ms1M//uPDvtp0rDzydWw/gumzvsvGyj5rLFk/+2m4vjr4rD6cm14/L6+7vuAAkz4QjmI/SDy+vm0pdT58omU/KVLAvn+7Qz4AJ2g/SQvCvrbbDT6WO2o/c1zDvmd8nD1b0ms/ztAyvsRJ5D7LvWA/W7pHvrh0rDyBBns/sG83vs7Gyj7UjGY/pgY8vjb4rD63UWw/eFw/vtcAkz5vgnA/XPZBvmspdT5kx3M/vxZEvnG7Qz6ac3Y/g9hFvqHbDT78qHg/JjBHvnN8nD3WWHo/Oos/tNVJ5D7vJGU/QAi4MgN1rDx68X8/XIWoNM/Gyj4bEWs/5MoyNS/4rD7s8nA/AYGjMeEAkz6nOHU/EMAWtGspdT4Gjng/FjMrtG67Qz6iR3s/gTDCtK3bDT4WiH0/nps/tKl8nD1oQH8/ldAyPtVJ5D7LvWA/PbpHPtt0rDyCBns/5283PsbGyj7UjGY//wY8Pin4rD62UWw/YFw/PucAkz5tgnA/ZvZBPlgpdT5mx3M/shZEPnS7Qz6bc3Y/g9hFPqzbDT78qHg/FTBHPnV8nD3XWHo/6mCvPtdJ5D6us1M/8OPDPvhzrDz1dWw/UumzPtTGyj5xLFk/+mm4Piz4rD6dm14/Fa+7Pt0Akz4XjmI/LTy+PmwpdT6BomU/KFLAPnq7Qz4BJ2g/ZwvCPp7bDT6RO2o/cVzDPi98nD1e0ms/XJz+PtlJ5D7Xhj4/1TEOP/5zrDwXz1Q/fZgCP9rGyj6Bc0M/Jd0FPyz4rD6EV0g/zjwIP94Akz7q5Es/5xYKP24pdT52qk4/kJoLP2e7Qz5y7lA/y9oMP5nbDT7EzVI/a88NP0N8nD3kO1Q/hwciP8xJ5D6TByI/vvo0PxN0rDyf+jQ/mTcmP8zGyj6uNyY/YWAqPzH4rD50YCo/zWUtP98Akz7NZS0/M8EvP28pdT4+wS8/hK4xP2m7Qz6ErjE/HkYzP5LbDT4iRjM/e300P0p8nD16fTQ/y4Y+P8ZJ5D6SnP4+Ks9UP7ZzrDy2MQ4/cHNDP8XGyj6emAI/fldIPyT4rD4x3QU/7eRLP80Akz7OPAg/cKpOP2IpdT7zFgo/cO5QP3G7Qz6Smgs/ws1SP5zbDT7O2gw/7TtUPzx8nD1bzw0/qrNTP8JJ5D4eYa8+9XVsP4JzrDzv48M+cCxZP7TGyj5+6bM+optePxf4rD70abg+F45iP9QAkz4er7s+faJlP2UpdT5IPL4+/SZoP167Qz48UsA+kDtqP53bDT5rC8I+YtJrPzF8nD1fXMM+yb1gP9RJ5D680DI+gAZ7P4lzrDx6ukc+04xmP8rGyj7obzc+tVFsPy34rD4CBzw+aoJwP+wAkz6XXD8+Y8dzP1kpdT6F9kE+nXN2P027Qz7MFkQ++qh4P5DbDT6d2EU+1lh6Py58nD1FMEc+7CRlP+NJ5D7j9eozevF/P7tzrDyNlSMxFhFrP+XGyj4NaiMy6vJwPz/4rD6udyMxpTh1P/QAkz4AAACAB454P10pdT7cSfWzpUd7P0a7Qz4AAACAF4h9P4/bDT4ohyMxakB/P0B8nD0AAACAx71gP9JJ5D7J0DK+gAZ7P65zrDxzuke+zoxmP9jGyj4AcDe+s1FsPzD4rD4DBzy+bYJwP94Akz6DXD++YsdzP2wpdT6P9kG+mXN2P2u7Qz79FkS++Kh4P5nbDT612EW+1lh6PzB8nD0/MEe+pbNTP8xJ5D4lYa++9nVsP7ZzrDzv48O+ayxZP8XGyj6K6bO+nZtePyb4rD4Fari+FY5iP9UAkz4kr7u+fKJlP1kpdT5JPL6+/SZoP2u7Qz5DUsC+kztqP5fbDT5mC8K+YtJrPzJ8nD1fXMO+zoY+P79J5D6PnP6+Ks9UP8dzrDy4MQ6/cnNDP8HGyj6dmAK/dldIPzb4rD433QW/5eRLP9sAkz7WPAi/bapOP1kpdT70Fgq/d+5QP2K7Qz6Jmgu/yc1SP5HbDT7F2gy/6ztUPzx8nD1dzw2/lwciP7hJ5D6KByK/rvo0Py50rDyu+jS/qjcmP73Gyj6kNya/YGAqPz34rD5yYCq/zmUtP98Akz7MZS2/QcEvP1gpdT4xwS+/hK4xP267Qz6DrjG/H0YzP57bDT4fRjO/en00P0N8nD16fTS/kpz+PrtJ5D7Ohj6/tTEOP110rDwqz1S/oJgCP8DGyj5wc0O/JN0FPz34rD6CV0i/vjwIP+UAkz7x5Eu/9xYKP2gpdT5tqk6/mZoLP1+7Qz5v7lC/1doMP5nbDT69zVK/Z88NP198nD3lO1S/GGGvPsJJ5D6rs1O//+PDPjN0rDzydWy/fumzPsPGyj5sLFm/+Wm4PjT4rD6cm16/A6+7PuQAkz4bjmK/PTy+PnwpdT59omW/VlLAPme7Qz74Jmi/jwvCPpPbDT6KO2q/klzDPml8nD1W0mu/zdAyPtBJ5D7JvWC/oLpHPkt1rDx9Bnu/9283Pr3Gyj7UjGa//gY8PiT4rD63UWy/lVw/PuUAkz5qgnC/ovZBPmkpdT5ix3O/8hZEPnC7Qz6Yc3a/u9hFPp3bDT74qHi/fzBHPpB8nD3SWHq/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwAAAAAAAIA/AAAAAAAAgD8AAAAAAACAPwUAAwAAAAAAPgA8ADwAOgA4ADgANgA0ADQAMgAwADAALgAsACwAKgAoACgAJgAkACQAIgAgACAAHwAdAB0AGwAZABkAFwAVABUAEwARABEADwANAA0ACwAJAAkABwAFAAUAAAA8ADwAOAA0ADQAMAAsACwAKAAkACQAIAAdAB0AGQAVABUAEQANAA0ACQAFAAUAPAA0ADQALAAkACQAHQAVABUADQAFAAUANAAkACQAFQAFAFICWwJUAFICVABSAP0CBgN7AP0CewB5AIgCkQJhAIgCYQBeABgDAAJBABgDQQB/AAYDDwN9AAYDfQB7AJECmgJjAJECYwBhABwCJQJIABwCSABGAA8DGAN/AA8DfwB9AJoCowJlAJoCZQBjACUCLgJKACUCSgBIAKMCrAJnAKMCZwBlAC4CNwJMAC4CTABKAKwCtQJpAKwCaQBnADcCQAJOADcCTgBMAAEAAgDpAAEA6QDhALUCvgJrALUCawBpAEACSQJQAEACUABOAL4CxwJtAL4CbQBrAA4AEAAoAQ4AKAEfAccC0AJvAMcCbwBtAEkCUgJSAEkCUgBQANAC2QJxANACcQBvAFsCZAJWAFsCVgBUANkC4gJzANkCcwBxAGQCbQJYAGQCWABWAOIC6wJ1AOICdQBzAG0CdgJaAG0CWgBYAOsC9AJ3AOsCdwB1AHYCfwJcAHYCXABaAPQC/QJ5APQCeQB3AH8CiAJeAH8CXgBcADsBRAFjAjsBYwJaAisALQCmASsApgGdARAAEgAxARAAMQEoAS0ALwCvAS0ArwGmARIAFAA6ARIAOgExAS8AMQC4AS8AuAGvARQAFgBDARQAQwE6ATEAMwDBATEAwQG4ARYAGABMARYATAFDATMANQDKATMAygHBARgAGgBVARgAVQFMATUANwDTATUA0wHKARoAHABeARoAXgFVAT8AAQDhAD8A4QD3ATcAOQDcATcA3AHTARwAHgBnARwAZwFeAQIABADyAAIA8gDpADkAOwDlATkA5QHcAR4AIQBwAR4AcAFnAQQABgD7AAQA+wDyADsAPQDuATsA7gHlASEAIwB5ASEAeQFwAQYACAAEAQYABAH7AD0APwD3AT0A9wHuASMAJQCCASMAggF5AQgACgANAQgADQEEARMCHAJGABMCRgBEACUAJwCLASUAiwGCAQoADAAWAQoAFgENAScAKQCUAScAlAGLAQwADgAfAQwAHwEWASkAKwCdASkAnQGUAVsAXQCdAFsAnQCbALkBwgHhArkB4QLYAkQBTQFsAkQBbAJjAsIBywHqAsIB6gLhAk0BVgF1Ak0BdQJsAssB1AHzAssB8wLqAlYBXwF+AlYBfgJ1AvgB4AABAvgBAQIXA9QB3QH8AtQB/ALzAl8BaAGHAl8BhwJ+AuoA8wASAuoAEgIJAt0B5gEFA90BBQP8AmgBcQGQAmgBkAKHAvMA/AAbAvMAGwISAuYB7wEOA+YBDgMFA3EBegGZAnEBmQKQAvwABQEkAvwAJAIbAu8B+AEXA+8BFwMOA3oBgwGiAnoBogKZAgUBDgEtAgUBLQIkAgoCEwJEAAoCRABCAIMBjAGrAoMBqwKiAg4BFwE2Ag4BNgItAowBlQG0AowBtAKrAhcBIAE/AhcBPwI2ApUBngG9ApUBvQK0AiABKQFIAiABSAI/Ap4BpwHGAp4BxgK9AikBMgFRAikBUQJIAqcBsAHPAqcBzwLGAjIBOwFaAjIBWgJRArABuQHYArAB2ALPAqEAowDRAKEA0QDQAEAAQwCDAEAAgwCAAHYAeAC4AHYAuAC2AF0AXwCfAF0AnwCdAEMARQCFAEMAhQCDAHgAegC6AHgAugC4AF8AYACgAF8AoACfAEUARwCHAEUAhwCFAHoAfAC8AHoAvAC6AGAAYgCiAGAAogCgAEcASQCJAEcAiQCHAHwAfgC+AHwAvgC8AGIAZACkAGIApACiAEkASwCLAEkAiwCJAH4AQACAAH4AgAC+AGQAZgCmAGQApgCkAEsATQCNAEsAjQCLAGYAaACoAGYAqACmAE0ATwCPAE0AjwCNAGgAagCqAGgAqgCoAE8AUQCRAE8AkQCPAGoAbACsAGoArACqAFEAUwCTAFEAkwCRAGwAbgCuAGwArgCsAFMAVQCVAFMAlQCTAG4AcACwAG4AsACuAFUAVwCXAFUAlwCVAHAAcgCyAHAAsgCwAFcAWQCZAFcAmQCXAHIAdAC0AHIAtACyAFkAWwCbAFkAmwCZAHQAdgC2AHQAtgC0AIYAiADEAIYAxADDAL0AvwDfAL0A3wDeAKMApQDSAKMA0gDRAIgAigDFAIgAxQDEAL8AgQDAAL8AwADfAKUApwDTAKUA0wDSAIoAjADGAIoAxgDFAKcAqQDUAKcA1ADTAIwAjgDHAIwAxwDGAKkAqwDVAKkA1QDUAI4AkADIAI4AyADHAKsArQDWAKsA1gDVAJAAkgDJAJAAyQDIAK0ArwDXAK0A1wDWAJIAlADKAJIAygDJAK8AsQDYAK8A2ADXAJQAlgDLAJQAywDKALEAswDZALEA2QDYAJYAmADMAJYAzADLALMAtQDaALMA2gDZAJgAmgDNAJgAzQDMALUAtwDbALUA2wDaAJoAnADOAJoAzgDNAIEAggDBAIEAwQDAALcAuQDcALcA3ADbAJwAngDPAJwAzwDOAIIAhADCAIIAwgDBALkAuwDdALkA3QDcAJ4AoQDQAJ4A0ADPAIQAhgDDAIQAwwDCALsAvQDeALsA3gDdAOoA4ADiAOoA4gDxAPEA4gDjAPEA4wDwAPAA4wDkAPAA5ADvAO8A5ADlAO8A5QDuAO4A5QDmAO4A5gDtAO0A5gDnAO0A5wDsAOwA5wDoAOwA6ADrAOsA6ADhAOsA4QDpAPMA6gDxAPMA8QD6APoA8QDwAPoA8AD5APkA8ADvAPkA7wD4APgA7wDuAPgA7gD3APcA7gDtAPcA7QD2APYA7QDsAPYA7AD1APUA7ADrAPUA6wD0APQA6wDpAPQA6QDyAPwA8wD6APwA+gADAQMB+gD5AAMB+QACAQIB+QD4AAIB+AABAQEB+AD3AAEB9wAAAQAB9wD2AAAB9gD/AP8A9gD1AP8A9QD+AP4A9QD0AP4A9AD9AP0A9ADyAP0A8gD7AAUB/AADAQUBAwEMAQwBAwECAQwBAgELAQsBAgEBAQsBAQEKAQoBAQEAAQoBAAEJAQkBAAH/AAkB/wAIAQgB/wD+AAgB/gAHAQcB/gD9AAcB/QAGAQYB/QD7AAYB+wAEAQ4BBQEMAQ4BDAEVARUBDAELARUBCwEUARQBCwEKARQBCgETARMBCgEJARMBCQESARIBCQEIARIBCAERAREBCAEHAREBBwEQARABBwEGARABBgEPAQ8BBgEEAQ8BBAENARcBDgEVARcBFQEeAR4BFQEUAR4BFAEdAR0BFAETAR0BEwEcARwBEwESARwBEgEbARsBEgERARsBEQEaARoBEQEQARoBEAEZARkBEAEPARkBDwEYARgBDwENARgBDQEWASABFwEeASABHgEnAScBHgEdAScBHQEmASYBHQEcASYBHAElASUBHAEbASUBGwEkASQBGwEaASQBGgEjASMBGgEZASMBGQEiASIBGQEYASIBGAEhASEBGAEWASEBFgEfASkBIAEnASkBJwEwATABJwEmATABJgEvAS8BJgElAS8BJQEuAS4BJQEkAS4BJAEtAS0BJAEjAS0BIwEsASwBIwEiASwBIgErASsBIgEhASsBIQEqASoBIQEfASoBHwEoATIBKQEwATIBMAE5ATkBMAEvATkBLwE4ATgBLwEuATgBLgE3ATcBLgEtATcBLQE2ATYBLQEsATYBLAE1ATUBLAErATUBKwE0ATQBKwEqATQBKgEzATMBKgEoATMBKAExATsBMgE5ATsBOQFCAUIBOQE4AUIBOAFBAUEBOAE3AUEBNwFAAUABNwE2AUABNgE/AT8BNgE1AT8BNQE+AT4BNQE0AT4BNAE9AT0BNAEzAT0BMwE8ATwBMwExATwBMQE6AUQBOwFCAUQBQgFLAUsBQgFBAUsBQQFKAUoBQQFAAUoBQAFJAUkBQAE/AUkBPwFIAUgBPwE+AUgBPgFHAUcBPgE9AUcBPQFGAUYBPQE8AUYBPAFFAUUBPAE6AUUBOgFDAU0BRAFLAU0BSwFUAVQBSwFKAVQBSgFTAVMBSgFJAVMBSQFSAVIBSQFIAVIBSAFRAVEBSAFHAVEBRwFQAVABRwFGAVABRgFPAU8BRgFFAU8BRQFOAU4BRQFDAU4BQwFMAVYBTQFUAVYBVAFdAV0BVAFTAV0BUwFcAVwBUwFSAVwBUgFbAVsBUgFRAVsBUQFaAVoBUQFQAVoBUAFZAVkBUAFPAVkBTwFYAVgBTwFOAVgBTgFXAVcBTgFMAVcBTAFVAV8BVgFdAV8BXQFmAWYBXQFcAWYBXAFlAWUBXAFbAWUBWwFkAWQBWwFaAWQBWgFjAWMBWgFZAWMBWQFiAWIBWQFYAWIBWAFhAWEBWAFXAWEBVwFgAWABVwFVAWABVQFeAWgBXwFmAWgBZgFvAW8BZgFlAW8BZQFuAW4BZQFkAW4BZAFtAW0BZAFjAW0BYwFsAWwBYwFiAWwBYgFrAWsBYgFhAWsBYQFqAWoBYQFgAWoBYAFpAWkBYAFeAWkBXgFnAXEBaAFvAXEBbwF4AXgBbwFuAXgBbgF3AXcBbgFtAXcBbQF2AXYBbQFsAXYBbAF1AXUBbAFrAXUBawF0AXQBawFqAXQBagFzAXMBagFpAXMBaQFyAXIBaQFnAXIBZwFwAXoBcQF4AXoBeAGBAYEBeAF3AYEBdwGAAYABdwF2AYABdgF/AX8BdgF1AX8BdQF+AX4BdQF0AX4BdAF9AX0BdAFzAX0BcwF8AXwBcwFyAXwBcgF7AXsBcgFwAXsBcAF5AYMBegGBAYMBgQGKAYoBgQGAAYoBgAGJAYkBgAF/AYkBfwGIAYgBfwF+AYgBfgGHAYcBfgF9AYcBfQGGAYYBfQF8AYYBfAGFAYUBfAF7AYUBewGEAYQBewF5AYQBeQGCAYwBgwGKAYwBigGTAZMBigGJAZMBiQGSAZIBiQGIAZIBiAGRAZEBiAGHAZEBhwGQAZABhwGGAZABhgGPAY8BhgGFAY8BhQGOAY4BhQGEAY4BhAGNAY0BhAGCAY0BggGLAZUBjAGTAZUBkwGcAZwBkwGSAZwBkgGbAZsBkgGRAZsBkQGaAZoBkQGQAZoBkAGZAZkBkAGPAZkBjwGYAZgBjwGOAZgBjgGXAZcBjgGNAZcBjQGWAZYBjQGLAZYBiwGUAZ4BlQGcAZ4BnAGlAaUBnAGbAaUBmwGkAaQBmwGaAaQBmgGjAaMBmgGZAaMBmQGiAaIBmQGYAaIBmAGhAaEBmAGXAaEBlwGgAaABlwGWAaABlgGfAZ8BlgGUAZ8BlAGdAacBngGlAacBpQGuAa4BpQGkAa4BpAGtAa0BpAGjAa0BowGsAawBowGiAawBogGrAasBogGhAasBoQGqAaoBoQGgAaoBoAGpAakBoAGfAakBnwGoAagBnwGdAagBnQGmAbABpwGuAbABrgG3AbcBrgGtAbcBrQG2AbYBrQGsAbYBrAG1AbUBrAGrAbUBqwG0AbQBqwGqAbQBqgGzAbMBqgGpAbMBqQGyAbIBqQGoAbIBqAGxAbEBqAGmAbEBpgGvAbkBsAG3AbkBtwHAAcABtwG2AcABtgG/Ab8BtgG1Ab8BtQG+Ab4BtQG0Ab4BtAG9Ab0BtAGzAb0BswG8AbwBswGyAbwBsgG7AbsBsgGxAbsBsQG6AboBsQGvAboBrwG4AcIBuQHAAcIBwAHJAckBwAG/AckBvwHIAcgBvwG+AcgBvgHHAccBvgG9AccBvQHGAcYBvQG8AcYBvAHFAcUBvAG7AcUBuwHEAcQBuwG6AcQBugHDAcMBugG4AcMBuAHBAcsBwgHJAcsByQHSAdIByQHIAdIByAHRAdEByAHHAdEBxwHQAdABxwHGAdABxgHPAc8BxgHFAc8BxQHOAc4BxQHEAc4BxAHNAc0BxAHDAc0BwwHMAcwBwwHBAcwBwQHKAdQBywHSAdQB0gHbAdsB0gHRAdsB0QHaAdoB0QHQAdoB0AHZAdkB0AHPAdkBzwHYAdgBzwHOAdgBzgHXAdcBzgHNAdcBzQHWAdYBzQHMAdYBzAHVAdUBzAHKAdUBygHTAd0B1AHbAd0B2wHkAeQB2wHaAeQB2gHjAeMB2gHZAeMB2QHiAeIB2QHYAeIB2AHhAeEB2AHXAeEB1wHgAeAB1wHWAeAB1gHfAd8B1gHVAd8B1QHeAd4B1QHTAd4B0wHcAeYB3QHkAeYB5AHtAe0B5AHjAe0B4wHsAewB4wHiAewB4gHrAesB4gHhAesB4QHqAeoB4QHgAeoB4AHpAekB4AHfAekB3wHoAegB3wHeAegB3gHnAecB3gHcAecB3AHlAe8B5gHtAe8B7QH2AfYB7QHsAfYB7AH1AfUB7AHrAfUB6wH0AfQB6wHqAfQB6gHzAfMB6gHpAfMB6QHyAfIB6QHoAfIB6AHxAfEB6AHnAfEB5wHwAfAB5wHlAfAB5QHuAfgB7wH2AfgB9gH/Af8B9gH1Af8B9QH+Af4B9QH0Af4B9AH9Af0B9AHzAf0B8wH8AfwB8wHyAfwB8gH7AfsB8gHxAfsB8QH6AfoB8QHwAfoB8AH5AfkB8AHuAfkB7gH3AeAA+AH/AeAA/wHiAOIA/wH+AeIA/gHjAOMA/gH9AeMA/QHkAOQA/QH8AeQA/AHlAOUA/AH7AeUA+wHmAOYA+wH6AeYA+gHnAOcA+gH5AecA+QHoAOgA+QH3AegA9wHhAAACCgJCAAACQgBBAAoCAAICAgoCAgIRAhECAgIDAhECAwIQAhACAwIEAhACBAIPAg8CBAIFAg8CBQIOAg4CBQIGAg4CBgINAg0CBgIHAg0CBwIMAgwCBwIIAgwCCAILAgsCCAIBAgsCAQIJAhMCCgIRAhMCEQIaAhoCEQIQAhoCEAIZAhkCEAIPAhkCDwIYAhgCDwIOAhgCDgIXAhcCDgINAhcCDQIWAhYCDQIMAhYCDAIVAhUCDAILAhUCCwIUAhQCCwIJAhQCCQISAhwCEwIaAhwCGgIjAiMCGgIZAiMCGQIiAiICGQIYAiICGAIhAiECGAIXAiECFwIgAiACFwIWAiACFgIfAh8CFgIVAh8CFQIeAh4CFQIUAh4CFAIdAh0CFAISAh0CEgIbAiUCHAIjAiUCIwIsAiwCIwIiAiwCIgIrAisCIgIhAisCIQIqAioCIQIgAioCIAIpAikCIAIfAikCHwIoAigCHwIeAigCHgInAicCHgIdAicCHQImAiYCHQIbAiYCGwIkAi4CJQIsAi4CLAI1AjUCLAIrAjUCKwI0AjQCKwIqAjQCKgIzAjMCKgIpAjMCKQIyAjICKQIoAjICKAIxAjECKAInAjECJwIwAjACJwImAjACJgIvAi8CJgIkAi8CJAItAjcCLgI1AjcCNQI+Aj4CNQI0Aj4CNAI9Aj0CNAIzAj0CMwI8AjwCMwIyAjwCMgI7AjsCMgIxAjsCMQI6AjoCMQIwAjoCMAI5AjkCMAIvAjkCLwI4AjgCLwItAjgCLQI2AkACNwI+AkACPgJHAkcCPgI9AkcCPQJGAkYCPQI8AkYCPAJFAkUCPAI7AkUCOwJEAkQCOwI6AkQCOgJDAkMCOgI5AkMCOQJCAkICOQI4AkICOAJBAkECOAI2AkECNgI/AkkCQAJHAkkCRwJQAlACRwJGAlACRgJPAk8CRgJFAk8CRQJOAk4CRQJEAk4CRAJNAk0CRAJDAk0CQwJMAkwCQwJCAkwCQgJLAksCQgJBAksCQQJKAkoCQQI/AkoCPwJIAlICSQJQAlICUAJZAlkCUAJPAlkCTwJYAlgCTwJOAlgCTgJXAlcCTgJNAlcCTQJWAlYCTQJMAlYCTAJVAlUCTAJLAlUCSwJUAlQCSwJKAlQCSgJTAlMCSgJIAlMCSAJRAlsCUgJZAlsCWQJiAmICWQJYAmICWAJhAmECWAJXAmECVwJgAmACVwJWAmACVgJfAl8CVgJVAl8CVQJeAl4CVQJUAl4CVAJdAl0CVAJTAl0CUwJcAlwCUwJRAlwCUQJaAmQCWwJiAmQCYgJrAmsCYgJhAmsCYQJqAmoCYQJgAmoCYAJpAmkCYAJfAmkCXwJoAmgCXwJeAmgCXgJnAmcCXgJdAmcCXQJmAmYCXQJcAmYCXAJlAmUCXAJaAmUCWgJjAm0CZAJrAm0CawJ0AnQCawJqAnQCagJzAnMCagJpAnMCaQJyAnICaQJoAnICaAJxAnECaAJnAnECZwJwAnACZwJmAnACZgJvAm8CZgJlAm8CZQJuAm4CZQJjAm4CYwJsAnYCbQJ0AnYCdAJ9An0CdAJzAn0CcwJ8AnwCcwJyAnwCcgJ7AnsCcgJxAnsCcQJ6AnoCcQJwAnoCcAJ5AnkCcAJvAnkCbwJ4AngCbwJuAngCbgJ3AncCbgJsAncCbAJ1An8CdgJ9An8CfQKGAoYCfQJ8AoYCfAKFAoUCfAJ7AoUCewKEAoQCewJ6AoQCegKDAoMCegJ5AoMCeQKCAoICeQJ4AoICeAKBAoECeAJ3AoECdwKAAoACdwJ1AoACdQJ+AogCfwKGAogChgKPAo8ChgKFAo8ChQKOAo4ChQKEAo4ChAKNAo0ChAKDAo0CgwKMAowCgwKCAowCggKLAosCggKBAosCgQKKAooCgQKAAooCgAKJAokCgAJ+AokCfgKHApECiAKPApECjwKYApgCjwKOApgCjgKXApcCjgKNApcCjQKWApYCjQKMApYCjAKVApUCjAKLApUCiwKUApQCiwKKApQCigKTApMCigKJApMCiQKSApICiQKHApIChwKQApoCkQKYApoCmAKhAqECmAKXAqEClwKgAqAClwKWAqAClgKfAp8ClgKVAp8ClQKeAp4ClQKUAp4ClAKdAp0ClAKTAp0CkwKcApwCkwKSApwCkgKbApsCkgKQApsCkAKZAqMCmgKhAqMCoQKqAqoCoQKgAqoCoAKpAqkCoAKfAqkCnwKoAqgCnwKeAqgCngKnAqcCngKdAqcCnQKmAqYCnQKcAqYCnAKlAqUCnAKbAqUCmwKkAqQCmwKZAqQCmQKiAqwCowKqAqwCqgKzArMCqgKpArMCqQKyArICqQKoArICqAKxArECqAKnArECpwKwArACpwKmArACpgKvAq8CpgKlAq8CpQKuAq4CpQKkAq4CpAKtAq0CpAKiAq0CogKrArUCrAKzArUCswK8ArwCswKyArwCsgK7ArsCsgKxArsCsQK6AroCsQKwAroCsAK5ArkCsAKvArkCrwK4ArgCrwKuArgCrgK3ArcCrgKtArcCrQK2ArYCrQKrArYCqwK0Ar4CtQK8Ar4CvALFAsUCvAK7AsUCuwLEAsQCuwK6AsQCugLDAsMCugK5AsMCuQLCAsICuQK4AsICuALBAsECuAK3AsECtwLAAsACtwK2AsACtgK/Ar8CtgK0Ar8CtAK9AscCvgLFAscCxQLOAs4CxQLEAs4CxALNAs0CxALDAs0CwwLMAswCwwLCAswCwgLLAssCwgLBAssCwQLKAsoCwQLAAsoCwALJAskCwAK/AskCvwLIAsgCvwK9AsgCvQLGAtACxwLOAtACzgLXAtcCzgLNAtcCzQLWAtYCzQLMAtYCzALVAtUCzALLAtUCywLUAtQCywLKAtQCygLTAtMCygLJAtMCyQLSAtICyQLIAtICyALRAtECyALGAtECxgLPAtkC0ALXAtkC1wLgAuAC1wLWAuAC1gLfAt8C1gLVAt8C1QLeAt4C1QLUAt4C1ALdAt0C1ALTAt0C0wLcAtwC0wLSAtwC0gLbAtsC0gLRAtsC0QLaAtoC0QLPAtoCzwLYAuIC2QLgAuIC4ALpAukC4ALfAukC3wLoAugC3wLeAugC3gLnAucC3gLdAucC3QLmAuYC3QLcAuYC3ALlAuUC3ALbAuUC2wLkAuQC2wLaAuQC2gLjAuMC2gLYAuMC2ALhAusC4gLpAusC6QLyAvIC6QLoAvIC6ALxAvEC6ALnAvEC5wLwAvAC5wLmAvAC5gLvAu8C5gLlAu8C5QLuAu4C5QLkAu4C5ALtAu0C5ALjAu0C4wLsAuwC4wLhAuwC4QLqAvQC6wLyAvQC8gL7AvsC8gLxAvsC8QL6AvoC8QLwAvoC8AL5AvkC8ALvAvkC7wL4AvgC7wLuAvgC7gL3AvcC7gLtAvcC7QL2AvYC7QLsAvYC7AL1AvUC7ALqAvUC6gLzAv0C9AL7Av0C+wIEAwQD+wL6AgQD+gIDAwMD+gL5AgMD+QICAwID+QL4AgID+AIBAwED+AL3AgED9wIAAwAD9wL2AgAD9gL/Av8C9gL1Av8C9QL+Av4C9QLzAv4C8wL8AgYD/QIEAwYDBAMNAw0DBAMDAw0DAwMMAwwDAwMCAwwDAgMLAwsDAgMBAwsDAQMKAwoDAQMAAwoDAAMJAwkDAAP/AgkD/wIIAwgD/wL+AggD/gIHAwcD/gL8AgcD/AIFAw8DBgMNAw8DDQMWAxYDDQMMAxYDDAMVAxUDDAMLAxUDCwMUAxQDCwMKAxQDCgMTAxMDCgMJAxMDCQMSAxIDCQMIAxIDCAMRAxEDCAMHAxEDBwMQAxADBwMFAxADBQMOAxgDDwMWAxgDFgMfAx8DFgMVAx8DFQMeAx4DFQMUAx4DFAMdAx0DFAMTAx0DEwMcAxwDEwMSAxwDEgMbAxsDEgMRAxsDEQMaAxoDEQMQAxoDEAMZAxkDEAMOAxkDDgMXAwACGAMfAwACHwMCAgICHwMeAwICHgMDAgMCHgMdAwMCHQMEAgQCHQMcAwQCHAMFAgUCHAMbAwUCGwMGAgYCGwMaAwYCGgMHAgcCGgMZAwcCGQMIAggCGQMXAwgCFwMBAuAA6gAJAuAACQIBAg=="
+        }
+    ]
+}

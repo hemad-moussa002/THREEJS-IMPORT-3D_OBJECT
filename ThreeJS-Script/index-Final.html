@@ -1,0 +1,212 @@
+<!doctype html>
+<html>
+
+<!--   MUST HAVE A LIVE-SERVER EXTENTION INSTALLED TO DO A TEST   -->
+
+
+<head>
+  <title>My 3D Object</title>
+</head>
+<body>
+  <div id="container"></div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/three@latest/build/three.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@latest/examples/js/loaders/GLTFLoader.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/three@latest/examples/js/controls/OrbitControls.js"></script>
+  
+  <style>
+    body {
+      margin: 0;
+      overflow: hidden;
+    }
+  </style>
+
+  <script>
+    // Set up the scene.
+    var scene = new THREE.Scene();
+    scene.background = new THREE.Color( 0x808080 );
+
+    // Set up the camera
+    var camera = new THREE.PerspectiveCamera( 58, window.innerWidth / window.innerHeight, 0.1, 1000 );
+    camera.position.set (-2.5,5,15);
+    
+  
+    var light = new THREE.PointLight( 0xffffff, 1, 100 );
+light.position.set( 5, 5, 5 );
+scene.add( light );
+
+
+
+    // Set up the renderer
+    var renderer = new THREE.WebGLRenderer();
+    renderer.setSize( window.innerWidth, window.innerHeight );
+    document.body.appendChild( renderer.domElement );
+
+    // Load the GLTF object
+    var loader = new THREE.GLTFLoader();
+    loader.load( 'object6.gltf', function ( gltf ) {
+      // Add a material to the object.
+      object = gltf.scene;
+      gltf.scene.traverse(function (child) {
+        if (child.isMesh) {
+          child.material = new THREE.MeshStandardMaterial({color: 0xffffff});
+        }
+      });
+      object.position.setX(-4);
+      object.position.setY(-0.01);
+      object.position.setZ(4);
+      object.rotation.z = 0;
+      object.rotation.y = -2;
+    //  o.material.color.set(red);
+    //---------------------------------------GRID-HELPER-----------------
+      var size = 10;
+		var divisions = 10;
+
+		var gridHelper = new THREE.GridHelper( size, divisions );
+		scene.add( gridHelper );
+    //---------------------------------------GRID-HELPER-----------------
+    
+    //    object.scale.set(0.1, 0.1, 0.1);
+   //     object.traverse(function(child) {
+      //              if (child.isMesh) child.material.envMAp = envMap;
+     //           });
+    scene.add( gltf.scene );
+      animate();
+    } );
+
+    var loader = new THREE.GLTFLoader();
+    loader.load( 'object8.gltf', function ( gltf ) {
+      // Add a material to the object.
+      object = gltf.scene;
+      gltf.scene.traverse(function (child) {
+        if (child.isMesh) {
+          child.material = new THREE.MeshStandardMaterial({color: 0xffffff});
+        }
+      });
+      object.position.y = 0;
+      scene.add( gltf.scene );
+      animate();
+    } );
+
+    var loader = new THREE.GLTFLoader();
+    loader.load( 'object5.gltf', function ( gltf ) {
+      // Add a material to the object.
+      object = gltf.scene;
+      gltf.scene.traverse(function (child) {
+        if (child.isMesh) {
+          child.material = new THREE.MeshStandardMaterial({color: 0xffffff});
+        }
+      });
+      object.position.setX(-3.9);
+      object.position.setY(0);
+      object.position.setZ(4.1);
+      object.rotation.z = 0;
+      object.rotation.y = -2;
+      scene.add( gltf.scene );
+      animate();
+    } );
+
+    var loader = new THREE.GLTFLoader();
+    loader.load( 'object9.gltf', function ( gltf ) {
+      // Add a material to the object.
+      object = gltf.scene;
+      gltf.scene.traverse(function (child) {
+        if (child.isMesh) {
+          child.material = new THREE.MeshStandardMaterial({color: 0xffffff});
+        }
+      });
+      object.position.setX(-0.04);
+      object.position.setY(-0.25);
+      object.position.setZ(-0.5);
+      object.rotation.z = 0;
+      object.rotation.y = 0;
+      scene.add( gltf.scene );
+      animate();
+    } );
+
+    var loader = new THREE.GLTFLoader();
+    loader.load( 'object3.gltf', function ( gltf ) {
+      // Add a material to the object.
+      object = gltf.scene;
+      gltf.scene.traverse(function (child) {
+        if (child.isMesh) {
+          child.material = new THREE.MeshStandardMaterial({color: 0xffffff});
+        }
+      });
+      object.position.setX(-6.7);
+      object.position.setY(0.1);
+      object.position.setZ(3);
+      object.scale.set(0.7, 0.7, 0.7); 
+      object.rotation.z = 0;
+      object.rotation.y = 0;
+      scene.add( gltf.scene );
+      animate();
+    } );
+
+
+    var loader = new THREE.GLTFLoader();
+    loader.load( 'object7.gltf', function ( gltf ) {
+      // Add a material to the object.
+      object = gltf.scene;
+      gltf.scene.traverse(function (child) {
+        if (child.isMesh) {
+          child.material = new THREE.MeshStandardMaterial({color: 0xffffff});
+        }
+      });
+      
+      scene.add( gltf.scene );
+      animate();
+    } );
+
+
+    
+
+    // Animate the scene
+    function animate() {
+      requestAnimationFrame( animate );
+      renderer.render( scene, camera );
+    }
+    animate();
+
+        // Add mouse control
+        var isDragging = false;
+    var previousMousePosition = {
+        x: 0,
+        y: 0
+    };
+
+    document.addEventListener('mousedown', function(event) {
+        isDragging = true;
+    });
+    document.addEventListener('mousemove', function(event) {
+        // Make sure the object is selected
+        if (!isDragging) {
+            return;
+        }
+        var deltaMove = {
+            x: event.clientX-previousMousePosition.x,
+            y: event.clientY-previousMousePosition.y
+        };
+
+        object.position.x += deltaMove.x*0.01;
+        object.position.y -= deltaMove.y*0.01;
+
+        previousMousePosition = {
+            x: event.clientX,
+            y: event.clientY
+        };
+    });
+    document.addEventListener('mouseup', function(event) {
+        isDragging = false;
+    });
+
+
+
+  </script>
+</body>
+</html>
+
+
+  </script>
+</body>
+</html>

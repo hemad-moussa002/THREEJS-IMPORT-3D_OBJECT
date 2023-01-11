@@ -1,0 +1,1787 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v3.3.32",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "KHR_materials_transmission",
+        "KHR_materials_ior"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "extras" : {
+                "assets used" : {
+                    "abebd954-5c29-4cad-8cdd-c35ae8efbe04" : {
+                        "thumbnail" : "thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnail_small" : "thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.256x256_q85_crop-%2C.jpg",
+                        "downloaded" : 100,
+                        "bbox_min" : [
+                            -0.5325,
+                            -0.1149,
+                            -0.0007
+                        ],
+                        "bbox_max" : [
+                            0.4997,
+                            0.1149,
+                            0.3939
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/dec3e435-d5da-4ff9-818f-a63dec3de206/",
+                        "id" : "dec3e435-d5da-4ff9-818f-a63dec3de206",
+                        "assetBaseId" : "abebd954-5c29-4cad-8cdd-c35ae8efbe04",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "27970",
+                            "firstName" : "EVA-Stud",
+                            "lastName" : "Evgeny Ashpin",
+                            "gravatarHash" : "10aeec9cb80ff31afbbc4f119398a2ef",
+                            "avatar128" : "/avatar-redirect/6ea088b4-e11d-4291-b332-628d998a4dc8/128/",
+                            "aboutMe" : "3d artist, I work in the blender program",
+                            "aboutMeUrl" : "https://eva-stud.artstation.com/",
+                            "tooltip" : "EVA-Stud Evgeny Ashpin\n\n3d artist, I work in the blender program\n",
+                            "gravatarImg" : "C:\\Users\\legion\\AppData\\Local\\Temp\\bkit_temp\\bkit_g/27970.jpg"
+                        },
+                        "name" : "Set cup",
+                        "displayName" : "Set cup",
+                        "description" : "set lowpoly cup wine glasses",
+                        "assetType" : "model",
+                        "category" : "drink",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "cup",
+                            "set",
+                            "wine",
+                            "glasses"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.0",
+                        "addonVersion" : "3.3.0",
+                        "created" : "2022-10-27T14:20:59.952487+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146473/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/dec3e435d5da4ff9818fa63dec3de206/files/blend_4a575204-94e7-4a00-be6e-a807b4654744.blend",
+                                "file_name" : "blend_4a575204-94e7-4a00-be6e-a807b4654744.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146381/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 933846,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dec3e435d5da4ff9818fa63dec3de206/files/thumbnail_28bacd13-52e9-4420-9eca-b03a496ae827.jpg.2048x2048_q85.jpg",
+                        "showMarketingLabels" : 1,
+                        "score" : 560.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 7.0,
+                            "workingHours" : 8.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 7.0,
+                            "workingHours" : 8.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 1,
+                            "workingHours" : 1,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 7.0,
+                            "workingHours" : 8.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 711,
+                            "faceCount" : 6112,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "lowpoly",
+                            "purePbr" : 0,
+                            "shaders" : [
+                                "principled",
+                                "mix shader",
+                                "anisotropic",
+                                "glossy",
+                                "diffuse",
+                                "glass",
+                                "transparent",
+                                "translucent"
+                            ],
+                            "animated" : 0,
+                            "uv" : 1,
+                            "textureResolutionMin" : 710,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "subsurf",
+                                "bevel"
+                            ],
+                            "materials" : [
+                                "Material.002",
+                                "Vintage Rustic Mexican Ceramic Floor 55",
+                                "Wood",
+                                "Dark Marble 2",
+                                "Coppper",
+                                "Material.007",
+                                "Honey"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 1.0322,
+                            "dimensionY" : 0.2298,
+                            "dimensionZ" : 0.3945,
+                            "boundBoxMinX" : -0.5325,
+                            "boundBoxMinY" : -0.1149,
+                            "boundBoxMinZ" : -0.0007,
+                            "boundBoxMaxX" : 0.4997,
+                            "boundBoxMaxY" : 0.1149,
+                            "boundBoxMaxZ" : 0.3939,
+                            "faceCountRender" : 229888,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 7,
+                            "nodeCount" : 321,
+                            "textureCount" : 3,
+                            "megapixels" : 1
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Set cup",
+                            "author_text" : "by EVA-Stud Evgeny Ashpin",
+                            "quality" : "7"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "786c5f05-4a80-4909-8ad4-dbb5d6581497" : {
+                        "thumbnail" : "thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnail_small" : "thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.256x256_q85_crop-%2C.jpg",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -1.1,
+                            -0.55,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            1.1,
+                            0.55,
+                            0.7424
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/b1fda8db-81cb-4482-bc5a-36c2d7b2fc47/",
+                        "id" : "b1fda8db-81cb-4482-bc5a-36c2d7b2fc47",
+                        "assetBaseId" : "786c5f05-4a80-4909-8ad4-dbb5d6581497",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "33799",
+                            "firstName" : "SanDOS",
+                            "lastName" : "",
+                            "gravatarHash" : "7fddd4a78797d93965ef4b99c0153ca2",
+                            "avatar128" : "/avatar-redirect/58c57535-da71-403b-ac20-19b92f4a2bdb/128/",
+                            "aboutMe" : "Industrial Designer with a broad experience ranging from Architectural to Marine interiors, exteriors, design and detailing.\r\nSpecialities: Design, 3D modelling, 3D visualisations, concepts, research and development and detailed drawings for manufacture.",
+                            "aboutMeUrl" : "https://www.underwaycontracts.com.au/",
+                            "tooltip" : "SanDOS \n\nIndustrial Designer with a broad experience ranging from Architectural to Marine interiors, exteriors, design and detailing.\nSpecialities: Design, 3D modelling, 3D visualisations, concepts, research and development and detailed drawings for manufacture.\n",
+                            "gravatarImg" : "C:\\Users\\legion\\AppData\\Local\\Temp\\bkit_temp\\bkit_g/33799.jpg"
+                        },
+                        "name" : "Bolero-Rectangular Table",
+                        "displayName" : "Bolero-Rectangular Table",
+                        "description" : "Poltrona Frau - Rectangular table with marble top and timber legs",
+                        "assetType" : "model",
+                        "category" : "elements",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Table",
+                            "Marble",
+                            "Timber"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.0",
+                        "addonVersion" : "3.2.0",
+                        "created" : "2022-10-28T17:30:20.041664+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146539/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/blend_8838e99d-707f-4f4b-a905-060c8f7cdf53.blend",
+                                "file_name" : "blend_8838e99d-707f-4f4b-a905-060c8f7cdf53.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146537/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 358252,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b1fda8db81cb4482bc5a36c2d7b2fc47/files/thumbnail_d881aa15-9f74-4f34-b2c0-7255b8b35ba1.jpg.2048x2048_q85.jpg",
+                        "showMarketingLabels" : 1,
+                        "score" : 200.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 2.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 2.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 1,
+                            "workingHours" : 1,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 2.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "faceCount" : 6281,
+                            "productionLevel" : "finished",
+                            "procedural" : 1,
+                            "modelStyle" : "realistic",
+                            "designer" : "Roberto Lazzeroni",
+                            "manufacturer" : "Poltrona Frau",
+                            "purePbr" : 1,
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "subsurf"
+                            ],
+                            "materials" : [
+                                "Marble",
+                                "Struttura Mat.001",
+                                "Struttura Mat",
+                                "Wood",
+                                "RubberFeet"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 2.2,
+                            "dimensionY" : 1.1,
+                            "dimensionZ" : 0.7424,
+                            "boundBoxMinX" : -1.1,
+                            "boundBoxMinY" : -0.55,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 1.1,
+                            "boundBoxMaxY" : 0.55,
+                            "boundBoxMaxZ" : 0.7424,
+                            "faceCountRender" : 81641,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 4,
+                            "nodeCount" : 36,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Bolero-Rectangular Table",
+                            "author_text" : "by SanDOS ",
+                            "quality" : "10"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "78f9d370-cb5f-40c1-9d03-2593eead4775" : {
+                        "thumbnail" : "thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0109,
+                            -0.0109,
+                            0.0001
+                        ],
+                        "bbox_max" : [
+                            0.0109,
+                            0.0109,
+                            0.1421
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/a558715b-f566-4bbe-bc91-95d25097a0fe/",
+                        "id" : "a558715b-f566-4bbe-bc91-95d25097a0fe",
+                        "assetBaseId" : "78f9d370-cb5f-40c1-9d03-2593eead4775",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "19323",
+                            "firstName" : "Deninnio",
+                            "lastName" : "Abendanon",
+                            "gravatarHash" : "1e9a53b3576f151f5516c6fda7e7d349",
+                            "avatar128" : "/avatar-redirect/60a0ba1f-05fc-4da5-853a-eab74dda882b/128/",
+                            "aboutMe" : "Learning 3d as a hobby",
+                            "aboutMeUrl" : "https://funatiq.artstation.com/"
+                        },
+                        "name" : "Test tube",
+                        "displayName" : "Test tube",
+                        "description" : "A realistic test tube. With label, cap, and blood material.",
+                        "assetType" : "model",
+                        "category" : "medicine",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "test tube",
+                            "covid",
+                            "blood",
+                            "reaction tube",
+                            "medical",
+                            "prop",
+                            "realistic",
+                            "postapocaliptic",
+                            "science",
+                            "virus",
+                            "apocalyptic",
+                            "research",
+                            "label",
+                            "corona",
+                            "sample"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.2.0",
+                        "addonVersion" : "3.1.5",
+                        "created" : "2022-07-08T20:31:49.098463+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/125059/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/126322/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/126321/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/126320/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/a558715bf5664bbebc9195d25097a0fe/files/resolution_2K_85bc33a2-41ef-424e-9c92-83deecd7ed95.blend",
+                                "file_name" : "resolution_2K_85bc33a2-41ef-424e-9c92-83deecd7ed95.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/125058/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 16538299,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/a558715bf5664bbebc9195d25097a0fe/files/thumbnail_651e2393-4529-45bd-be2a-70e340fe2aa5.png.2048x2048_q85.png",
+                        "showMarketingLabels" : 1,
+                        "score" : 386.66666666666663,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 4.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.666666666666666,
+                            "workingHours" : 4.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 3,
+                            "workingHours" : 1,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 29.0,
+                            "workingHours" : 4.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 3000,
+                            "faceCount" : 2007,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "purePbr" : 0,
+                            "shaders" : [
+                                "principled",
+                                "volume absorption",
+                                "mix shader",
+                                "glossy",
+                                "diffuse"
+                            ],
+                            "animated" : 0,
+                            "uv" : 1,
+                            "textureResolutionMin" : 1000,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "bevel",
+                                "subsurf",
+                                "shrinkwrap",
+                                "solidify"
+                            ],
+                            "materials" : [
+                                "glass",
+                                "CORONAVIRUS",
+                                "Material.001",
+                                "blood"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.0217,
+                            "dimensionY" : 0.0217,
+                            "dimensionZ" : 0.142,
+                            "boundBoxMinX" : -0.0109,
+                            "boundBoxMinY" : -0.0109,
+                            "boundBoxMinZ" : 0.0001,
+                            "boundBoxMaxX" : 0.0109,
+                            "boundBoxMaxY" : 0.0109,
+                            "boundBoxMaxZ" : 0.1421,
+                            "faceCountRender" : 32176,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 5,
+                            "nodeCount" : 42,
+                            "textureCount" : 7,
+                            "megapixels" : 9
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048
+                        ],
+                        "max_resolution" : 2048,
+                        "tooltip_data" : {
+                            "aname" : "Test tube",
+                            "author_text" : "by Deninnio Abendanon",
+                            "quality" : "10"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "ecfc80a0-4318-4ac8-8ec0-fa1e355d1521" : {
+                        "thumbnail" : "thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0119,
+                            -0.0119,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            0.0119,
+                            0.0119,
+                            0.113
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/14f0e019-610c-4d8d-81ab-adc123efa699/",
+                        "id" : "14f0e019-610c-4d8d-81ab-adc123efa699",
+                        "assetBaseId" : "ecfc80a0-4318-4ac8-8ec0-fa1e355d1521",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "247255",
+                            "firstName" : "Rina",
+                            "lastName" : "Bothma",
+                            "gravatarHash" : "e4345c4a1f7ba6d105ec37930f194348",
+                            "avatar128" : "/avatar-redirect/4a608fa8-d567-43f9-8660-c1b1e3791104/128/",
+                            "aboutMe" : "3d modeler - freelance",
+                            "aboutMeUrl" : "https://www.artstation.com/rinabothma5"
+                        },
+                        "name" : "Test Tube",
+                        "displayName" : "Test Tube",
+                        "description" : "A test tube with cork and liquid",
+                        "assetType" : "model",
+                        "category" : "medicine",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "testtube",
+                            "test",
+                            "tube",
+                            "science",
+                            "classroom",
+                            "laboratory"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.0",
+                        "addonVersion" : "3.2.0",
+                        "created" : "2022-10-25T13:00:50.080685+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146111/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147013/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147012/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/14f0e019610c4d8d81abadc123efa699/files/resolution_1K_aba98115-71ec-482b-9e2f-e0036e8a7fec.blend",
+                                "file_name" : "resolution_1K_aba98115-71ec-482b-9e2f-e0036e8a7fec.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146110/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 6987366,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/14f0e019610c4d8d81abadc123efa699/files/thumbnail_0e6151eb-8cbe-4982-acfe-bc76c14d5e51.png.2048x2048_q85.png",
+                        "showMarketingLabels" : 1,
+                        "score" : 300.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 1,
+                            "workingHours" : 1,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 1024,
+                            "faceCount" : 2896,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "designVariant" : "Liquid color can be changed",
+                            "purePbr" : 1,
+                            "shaders" : [
+                                "volume absorption",
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 1024,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                ""
+                            ],
+                            "materials" : [
+                                "Liquid",
+                                "Cork.001",
+                                "Glass_Clear.001"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.0237,
+                            "dimensionY" : 0.0237,
+                            "dimensionZ" : 0.113,
+                            "boundBoxMinX" : -0.0119,
+                            "boundBoxMinY" : -0.0119,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 0.0119,
+                            "boundBoxMaxY" : 0.0119,
+                            "boundBoxMaxZ" : 0.113,
+                            "faceCountRender" : 2896,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 4,
+                            "nodeCount" : 18,
+                            "textureCount" : 4,
+                            "megapixels" : 4
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024
+                        ],
+                        "max_resolution" : 1024,
+                        "tooltip_data" : {
+                            "aname" : "Test Tube",
+                            "author_text" : "by Rina Bothma",
+                            "quality" : "10"
+                        },
+                        "resolution" : "resolution_1K"
+                    },
+                    "5bb6d350-4fef-47f9-b2bf-23905a754b75" : {
+                        "thumbnail" : "thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0446,
+                            -0.0446,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            0.0446,
+                            0.0446,
+                            0.1245
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/b66ed7ea-9c80-4d35-9f0f-46bfe966de5a/",
+                        "id" : "b66ed7ea-9c80-4d35-9f0f-46bfe966de5a",
+                        "assetBaseId" : "5bb6d350-4fef-47f9-b2bf-23905a754b75",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "247255",
+                            "firstName" : "Rina",
+                            "lastName" : "Bothma",
+                            "gravatarHash" : "e4345c4a1f7ba6d105ec37930f194348",
+                            "avatar128" : "/avatar-redirect/4a608fa8-d567-43f9-8660-c1b1e3791104/128/",
+                            "aboutMe" : "3d modeler - freelance",
+                            "aboutMeUrl" : "https://www.artstation.com/rinabothma5"
+                        },
+                        "name" : "Erlenmeyer Flask",
+                        "displayName" : "Erlenmeyer Flask",
+                        "description" : "Erlenmeyer Flask with cork and liquid",
+                        "assetType" : "model",
+                        "category" : "medicine",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Erlenmeyer",
+                            "flask",
+                            "cork",
+                            "science",
+                            "laboratory"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.3.0",
+                        "addonVersion" : "3.2.0",
+                        "created" : "2022-10-25T13:53:06.795057+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146121/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147001/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/147000/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/resolution_1K_b162485f-8a96-4aa2-a035-084fcc1ae6f3.blend",
+                                "file_name" : "resolution_1K_b162485f-8a96-4aa2-a035-084fcc1ae6f3.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/146120/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 6972327,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/b66ed7ea9c804d359f0f46bfe966de5a/files/thumbnail_b2242628-087a-4c30-a895-cae090bd72ff.png.2048x2048_q85.png",
+                        "showMarketingLabels" : 1,
+                        "score" : 270.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 1,
+                            "workingHours" : 1,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.0,
+                            "workingHours" : 3.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 1024,
+                            "faceCount" : 2624,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "designVariant" : "Liquid color can be change",
+                            "purePbr" : 1,
+                            "shaders" : [
+                                "principled",
+                                "volume absorption"
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "textureResolutionMin" : 1024,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "weighted normal"
+                            ],
+                            "materials" : [
+                                "Cork",
+                                "Liquid_18",
+                                "Glass_Clear.001"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.0893,
+                            "dimensionY" : 0.0893,
+                            "dimensionZ" : 0.1245,
+                            "boundBoxMinX" : -0.0446,
+                            "boundBoxMinY" : -0.0446,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 0.0446,
+                            "boundBoxMaxY" : 0.0446,
+                            "boundBoxMaxZ" : 0.1245,
+                            "faceCountRender" : 2624,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 4,
+                            "nodeCount" : 18,
+                            "textureCount" : 4,
+                            "megapixels" : 4
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024
+                        ],
+                        "max_resolution" : 1024,
+                        "tooltip_data" : {
+                            "aname" : "Erlenmeyer Flask",
+                            "author_text" : "by Rina Bothma",
+                            "quality" : "9"
+                        },
+                        "resolution" : "resolution_1K"
+                    },
+                    "7baf1243-3eea-4aed-a8e6-ce45727161de" : {
+                        "thumbnail" : "thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0457,
+                            -0.2423,
+                            0.0
+                        ],
+                        "bbox_max" : [
+                            0.009,
+                            0.0062,
+                            0.0408
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/dacb83a0-f147-472d-b917-3c9843e057e2/",
+                        "id" : "dacb83a0-f147-472d-b917-3c9843e057e2",
+                        "assetBaseId" : "7baf1243-3eea-4aed-a8e6-ce45727161de",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "639",
+                            "firstName" : "Joachim",
+                            "lastName" : "Bornemann",
+                            "gravatarHash" : "acd124cf9a73257876372090f1bd2c5f",
+                            "avatar128" : "/avatar-redirect/ea26d87b-ba2d-45b4-9e26-61323b186d80/128/",
+                            "aboutMe" : "I have been practicing Blender since the beginning of 2017. I only create free models. I wish you a lot of fun with the models. If you like my models, please rate them.",
+                            "aboutMeUrl" : "https://www.youtube.com/channel/UC4iumRZFtMwIp68q_H7y-DQ/videos?view=0&sort=dd&shelf_id=1"
+                        },
+                        "name" : "BNC probe JOBOLINE x10",
+                        "displayName" : "BNC probe JOBOLINE x10",
+                        "description" : "you can position the elements in your scene and the cables will follow (curve and hook). remember to switch the import settings to append if you want to lay the cable.",
+                        "assetType" : "model",
+                        "category" : "medicine",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "BNC",
+                            "non-manifold",
+                            "uv",
+                            "non-manifold",
+                            "uv"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.92.0",
+                        "addonVersion" : "1.0.40",
+                        "created" : "2020-12-09T07:38:04.012219+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/38462/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_0_5K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/39955/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/39954/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/39953/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/dacb83a0f147472db9173c9843e057e2/files/resolution_2K_992424f3-38eb-4153-9bd4-908676cb74c8.blend",
+                                "file_name" : "resolution_2K_992424f3-38eb-4153-9bd4-908676cb74c8.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/37426/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 9004345,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/dacb83a0f147472db9173c9843e057e2/files/thumbnail_dbecdc09-4ce2-487c-87aa-d869becb7a4a.png.2048x2048_q85.png",
+                        "showMarketingLabels" : 1,
+                        "score" : 200.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 8.0,
+                            "workingHours" : 2.5,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 8.0,
+                            "workingHours" : 2.5,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 2,
+                            "workingHours" : 2,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 16.0,
+                            "workingHours" : 5.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 4841,
+                            "faceCount" : 14524,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "condition" : "new",
+                            "purePbr" : 0,
+                            "shaders" : [
+                                "principled",
+                                "mix shader"
+                            ],
+                            "animated" : 0,
+                            "uv" : 1,
+                            "textureResolutionMin" : 1390,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "weighted normal",
+                                "hook"
+                            ],
+                            "materials" : [
+                                "Metal.001",
+                                "Isolator.001",
+                                "Kabel-Schwarz.002",
+                                "Gold",
+                                "Kabel-Schwarz",
+                                "Kabel-Schwarz.003",
+                                "Metal.004",
+                                "Kabel-bLAU",
+                                "Kabel-Schwarz.005",
+                                "Kunsstof.Blau"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.0548,
+                            "dimensionY" : 0.2485,
+                            "dimensionZ" : 0.0408,
+                            "boundBoxMinX" : -0.0457,
+                            "boundBoxMinY" : -0.2423,
+                            "boundBoxMinZ" : 0.0,
+                            "boundBoxMaxX" : 0.009,
+                            "boundBoxMaxY" : 0.0062,
+                            "boundBoxMaxZ" : 0.0408,
+                            "faceCountRender" : 14524,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 9,
+                            "nodeCount" : 119,
+                            "textureCount" : 16,
+                            "megapixels" : 77
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            512,
+                            1024,
+                            2048
+                        ],
+                        "max_resolution" : 2048,
+                        "tooltip_data" : {
+                            "aname" : "BNC probe JOBOLINE x10",
+                            "author_text" : "by Joachim Bornemann",
+                            "quality" : "8"
+                        },
+                        "resolution" : "resolution_2K"
+                    },
+                    "d8f85f94-2434-4d8e-ada7-00aeca2225f2" : {
+                        "thumbnail" : "thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.512x512_q85_crop-%2C.png",
+                        "thumbnail_small" : "thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.256x256_q85_crop-%2C.png",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.0812,
+                            -0.1359,
+                            0.0009
+                        ],
+                        "bbox_max" : [
+                            0.0803,
+                            0.0864,
+                            0.2473
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/2179a67f-be9f-4a76-ad18-1a3929029992/",
+                        "id" : "2179a67f-be9f-4a76-ad18-1a3929029992",
+                        "assetBaseId" : "d8f85f94-2434-4d8e-ada7-00aeca2225f2",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "122855",
+                            "firstName" : "Alexander",
+                            "lastName" : "Novgorodtsev",
+                            "gravatarHash" : "57883237731442ed5d56e5dce79c8432",
+                            "avatar128" : "/avatar-redirect/e50008d9-a111-45e3-bcee-a7cf37aa85ad/128/",
+                            "aboutMe" : "I live in Saint Petersburg and work as a freelancer.  I create architectural visualization and work as a VFX artist, from time to time I make TV commercials.",
+                            "aboutMeUrl" : "https://www.blenderkit.com/asset-gallery?query=author_id:122855"
+                        },
+                        "name" : "Male skull",
+                        "displayName" : "Male skull",
+                        "description" : "Anatomically correct male skull. All the features of the structure of the male skull are observed.",
+                        "assetType" : "model",
+                        "category" : "science-miscellaneous",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "skull",
+                            "bone",
+                            "anatomy",
+                            "jaw",
+                            "teeth",
+                            "female",
+                            "male",
+                            "man",
+                            "human",
+                            "highpoly",
+                            "skeleton",
+                            "sculpt",
+                            "head",
+                            "realistic",
+                            "cranium",
+                            "blender",
+                            "science",
+                            "medical"
+                        ],
+                        "license" : "royalty_free",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "2.93.0",
+                        "addonVersion" : "2.93.0",
+                        "created" : "2021-10-17T19:12:18.704569+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/84795/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/2179a67fbe9f4a76ad181a3929029992/files/blend_a68c7ca7-e687-4b8c-83f3-971d83a211c1.blend",
+                                "file_name" : "blend_a68c7ca7-e687-4b8c-83f3-971d83a211c1.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/84794/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.96x96_q85_crop-%2C.png",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.1024x1024_q85_crop-%2C.png"
+                            }
+                        ],
+                        "filesSize" : 10474495,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.256x256_q85_crop-%2C.png",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.512x512_q85_crop-%2C.png",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.1024x1024_q85_crop-%2C.png",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.256x256_q85.png",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.512x512_q85.png",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.1024x1024_q85.png",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/2179a67fbe9f4a76ad181a3929029992/files/thumbnail_90495837-2b54-491f-8060-bc0e05cfe93e.png.2048x2048_q85.png",
+                        "showMarketingLabels" : 1,
+                        "score" : 713.8461538461538,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 9.0,
+                            "workingHours" : 8.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 8.923076923076923,
+                            "workingHours" : 8.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 13,
+                            "workingHours" : 6,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 116.0,
+                            "workingHours" : 68.9,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 2292,
+                            "faceCount" : 129496,
+                            "productionLevel" : "finished",
+                            "procedural" : 0,
+                            "modelStyle" : "realistic",
+                            "purePbr" : 0,
+                            "shaders" : [
+                                "principled"
+                            ],
+                            "animated" : 0,
+                            "uv" : 1,
+                            "textureResolutionMin" : 864,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                ""
+                            ],
+                            "materials" : [
+                                "side skull",
+                                "front skull"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.1615,
+                            "dimensionY" : 0.2222,
+                            "dimensionZ" : 0.2464,
+                            "boundBoxMinX" : -0.0812,
+                            "boundBoxMinY" : -0.1359,
+                            "boundBoxMinZ" : 0.0009,
+                            "boundBoxMaxX" : 0.0803,
+                            "boundBoxMaxY" : 0.0864,
+                            "boundBoxMaxZ" : 0.2473,
+                            "faceCountRender" : 129496,
+                            "meshPolyType" : "tri_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 3,
+                            "nodeCount" : 15,
+                            "textureCount" : 2,
+                            "megapixels" : 4
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Male skull",
+                            "author_text" : "by Alexander Novgorodtsev",
+                            "quality" : "9"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "fc028cc0-a1aa-4e66-9246-465e1d7a9e4e" : {
+                        "thumbnail" : "thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnail_small" : "thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.256x256_q85_crop-%2C.jpg",
+                        "downloaded" : 0,
+                        "bbox_min" : [
+                            -0.2232,
+                            -0.3086,
+                            -0.0005
+                        ],
+                        "bbox_max" : [
+                            0.3093,
+                            0.2736,
+                            1.5932
+                        ],
+                        "url" : "https://www.blenderkit.com/api/v1/assets/5e6eb0a8-b6e3-4523-ba4e-8e8351bdb5ce/",
+                        "id" : "5e6eb0a8-b6e3-4523-ba4e-8e8351bdb5ce",
+                        "assetBaseId" : "fc028cc0-a1aa-4e66-9246-465e1d7a9e4e",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "96822",
+                            "firstName" : "Alexander",
+                            "lastName" : "Handjiev",
+                            "gravatarHash" : "69ff03c2623c803be585343aec60aea7",
+                            "avatar128" : "/avatar-redirect/3354c5f4-43d8-4289-91c7-a4bf7d4aadcd/128/",
+                            "aboutMe" : "I am a concept artist who specialises in whatever the boss tells me. I like to create props and environments the most",
+                            "aboutMeUrl" : "https://alexhan99.artstation.com"
+                        },
+                        "name" : "Medical Scale",
+                        "displayName" : "Medical Scale",
+                        "description" : "Scale used in hospitals in the past century. (Unless you are from the Balkans, then it's still used today). It's low poly, and low res, so it's the perfect background piece, not suitable for a focus though.",
+                        "assetType" : "model",
+                        "category" : "medical",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "Scale",
+                            "Medic",
+                            "hospital",
+                            "med",
+                            "equipment",
+                            "soviet",
+                            "sport",
+                            "old"
+                        ],
+                        "license" : "cc_zero",
+                        "sourceAppName" : "blender",
+                        "sourceAppVersion" : "3.0.1",
+                        "addonVersion" : "3.0.7",
+                        "created" : "2022-03-08T17:44:01.668561+01:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/107200/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/blend_c13d243f-0a3d-4dfd-aa15-f3f13bb661ca.blend",
+                                "file_name" : "blend_c13d243f-0a3d-4dfd-aa15-f3f13bb661ca.blend"
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/107166/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 400268,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/5e6eb0a8b6e34523ba4e8e8351bdb5ce/files/thumbnail_b961e987-f618-49c1-80e9-b64290d6776b.jpg.2048x2048_q85.jpg",
+                        "showMarketingLabels" : 1,
+                        "score" : 765.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 8.5,
+                            "workingHours" : 9.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 8.5,
+                            "workingHours" : 9.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 2,
+                            "workingHours" : 2,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 17.0,
+                            "workingHours" : 18.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "faceCount" : 1442,
+                            "productionLevel" : "finished",
+                            "procedural" : 1,
+                            "modelStyle" : "realistic",
+                            "condition" : "old",
+                            "designYear" : 1950,
+                            "purePbr" : 1,
+                            "shaders" : [
+                                ""
+                            ],
+                            "animated" : 0,
+                            "pbrType" : "metallic",
+                            "uv" : 1,
+                            "engines" : [
+                                "cycles"
+                            ],
+                            "modifiers" : [
+                                "bevel"
+                            ],
+                            "materials" : [
+                                "Material.001",
+                                "Material.002"
+                            ],
+                            "rig" : 0,
+                            "simulation" : 0,
+                            "dimensionX" : 0.5325,
+                            "dimensionY" : 0.5822,
+                            "dimensionZ" : 1.5937,
+                            "boundBoxMinX" : -0.2232,
+                            "boundBoxMinY" : -0.3086,
+                            "boundBoxMinZ" : -0.0005,
+                            "boundBoxMaxX" : 0.3093,
+                            "boundBoxMaxY" : 0.2736,
+                            "boundBoxMaxZ" : 1.5932,
+                            "faceCountRender" : 1442,
+                            "meshPolyType" : "quad_dominant",
+                            "manifold" : 0,
+                            "objectCount" : 1,
+                            "nodeCount" : 0,
+                            "textureCount" : 0,
+                            "megapixels" : 0
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [],
+                        "max_resolution" : 0,
+                        "tooltip_data" : {
+                            "aname" : "Medical Scale",
+                            "author_text" : "by Alexander Handjiev",
+                            "quality" : "8"
+                        },
+                        "resolution" : "blend"
+                    },
+                    "d756181f-6105-4603-a2b2-fe5826a32897" : {
+                        "thumbnail" : "thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85.jpg",
+                        "thumbnail_small" : "thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.256x256_q85_crop-%2C.jpg",
+                        "downloaded" : 0,
+                        "url" : "https://www.blenderkit.com/api/v1/assets/624a1fb8-6098-4c62-aacb-7ba5cd171440/",
+                        "id" : "624a1fb8-6098-4c62-aacb-7ba5cd171440",
+                        "assetBaseId" : "d756181f-6105-4603-a2b2-fe5826a32897",
+                        "versionNumber" : 1,
+                        "author" : {
+                            "id" : "118455",
+                            "firstName" : "Poly Haven",
+                            "lastName" : "",
+                            "gravatarHash" : "9da1c50cedd2b312112a027058bc1c1f",
+                            "avatar128" : "/avatar-redirect/32aebffe-2245-417d-8710-c0ea1442ba07/128/",
+                            "aboutMe" : "We publish 100% free high quality 3D assets with no strings attached :) If you want to support our work and help us keep making new assets, find us on Patreon: https://polyhaven.com/support-us",
+                            "aboutMeUrl" : "https://polyhaven.com/"
+                        },
+                        "name" : "Cayley Interior",
+                        "displayName" : "Cayley Interior",
+                        "description" : "by Greg Zaal",
+                        "assetType" : "hdr",
+                        "category" : "residential",
+                        "adult" : 0,
+                        "isFree" : 1,
+                        "tags" : [
+                            "lamp",
+                            "table",
+                            "window",
+                            "glass",
+                            "balcony",
+                            "view",
+                            "log",
+                            "cayley_interior"
+                        ],
+                        "license" : "cc_zero",
+                        "sourceAppName" : "HDRI_haven_uploader.py",
+                        "sourceAppVersion" : "1.0",
+                        "addonVersion" : "1.0",
+                        "created" : "2021-03-28T05:23:53.028727+02:00",
+                        "verificationStatus" : "validated",
+                        "isPrivate" : 0,
+                        "files" : [
+                            {
+                                "fileType" : "blend",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/51028/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_1K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/51030/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null,
+                                "url" : "https://public.blenderkit.com/public-assets/assets/624a1fb860984c62aacb7ba5cd171440/files/resolution_1K_9f1fe193-3fbc-440e-93e6-5e5f863c54df.hdr",
+                                "file_name" : "resolution_1K_9f1fe193-3fbc-440e-93e6-5e5f863c54df.hdr"
+                            },
+                            {
+                                "fileType" : "resolution_2K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/51032/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_4K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/51035/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "resolution_8K",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/51039/",
+                                "fileThumbnail" : null,
+                                "fileThumbnailLarge" : null
+                            },
+                            {
+                                "fileType" : "thumbnail",
+                                "downloadUrl" : "https://www.blenderkit.com/api/v1/downloads/51024/",
+                                "fileThumbnail" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.96x96_q85_crop-%2C.jpg",
+                                "fileThumbnailLarge" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85_crop-%2C.jpg"
+                            }
+                        ],
+                        "filesSize" : 402310488,
+                        "thumbnailSmallUrl" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.256x256_q85_crop-%2C.jpg",
+                        "thumbnailMiddleUrl" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.512x512_q85_crop-%2C.jpg",
+                        "thumbnailLargeUrl" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailXlargeUrl" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85_crop-%2C.jpg",
+                        "thumbnailSmallUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.256x256_q85.jpg",
+                        "thumbnailMiddleUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.512x512_q85.jpg",
+                        "thumbnailLargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85.jpg",
+                        "thumbnailXlargeUrlNonsquared" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.2048x2048_q85.jpg",
+                        "thumbnailSmallUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.256x256_q85_crop-%2C.jpg.webp?webp_generated=1628696159",
+                        "thumbnailMiddleUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.512x512_q85_crop-%2C.jpg.webp?webp_generated=1628696159",
+                        "thumbnailLargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1628696159",
+                        "thumbnailXlargeUrlWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85_crop-%2C.jpg.webp?webp_generated=1628696159",
+                        "thumbnailSmallUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.256x256_q85.jpg.webp?webp_generated=1628696159",
+                        "thumbnailMiddleUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.512x512_q85.jpg.webp?webp_generated=1628696159",
+                        "thumbnailLargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.1024x1024_q85.jpg.webp?webp_generated=1628696159",
+                        "thumbnailXlargeUrlNonsquaredWebp" : "https://public.blenderkit.com/thumbnails/assets/624a1fb860984c62aacb7ba5cd171440/files/thumbnail_2d83f403-871b-401f-908d-c55cf257f44f.jpg.2048x2048_q85.jpg.webp?webp_generated=1628696159",
+                        "showMarketingLabels" : 1,
+                        "webpGeneratedTimestamp" : 1628696159,
+                        "score" : 1000.0,
+                        "ratingsMedian" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 10.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsAverage" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 10.0,
+                            "workingHours" : 10.0,
+                            "complexityAdmin" : null
+                        },
+                        "ratingsCount" : {
+                            "competition-2022-votes" : 0,
+                            "complexity" : 0,
+                            "virtualPriceAdmin" : 0,
+                            "virtualPrice" : 0,
+                            "quality" : 2,
+                            "workingHours" : 2,
+                            "complexityAdmin" : 0
+                        },
+                        "ratingsSum" : {
+                            "competition-2022-votes" : null,
+                            "complexity" : null,
+                            "virtualPriceAdmin" : null,
+                            "virtualPrice" : null,
+                            "quality" : 20.0,
+                            "workingHours" : 20.0,
+                            "complexityAdmin" : null
+                        },
+                        "dictParameters" : {
+                            "textureResolutionMax" : 16384,
+                            "evsCap" : 14,
+                            "trueHDR" : 1
+                        },
+                        "canDownload" : 1,
+                        "canDownloadError" : 1,
+                        "available_resolutions" : [
+                            1024,
+                            2048,
+                            4096,
+                            8192
+                        ],
+                        "max_resolution" : 8192,
+                        "tooltip_data" : {
+                            "aname" : "Cayley Interior",
+                            "author_text" : "by Poly Haven ",
+                            "quality" : "10"
+                        },
+                        "resolution" : "resolution_1K"
+                    }
+                },
+                "uuid" : "9b9ce9cd-d13d-4e70-a83e-0290a81fcf48",
+                "assets reported" : {},
+                "blenderkit" : {}
+            },
+            "name" : "Scene",
+            "nodes" : [
+                0
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "extras" : {
+                "ant_landscape" : {},
+                "scatter5" : {}
+            },
+            "mesh" : 0,
+            "name" : "tube",
+            "scale" : [
+                0.020212510600686073,
+                0.020212510600686073,
+                0.020212510600686073
+            ],
+            "translation" : [
+                -0.4295327663421631,
+                0.20682871341705322,
+                0.21636569499969482
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "extensions" : {
+                "KHR_materials_transmission" : {
+                    "transmissionFactor" : 1
+                },
+                "KHR_materials_ior" : {
+                    "ior" : 1.4500000476837158
+                }
+            },
+            "extras" : {
+                "blenderkit" : {}
+            },
+            "name" : "Glass_Clear.002",
+            "pbrMetallicRoughness" : {
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "extras" : {
+                "Roundcube" : 1,
+                "change" : 0,
+                "radius" : 0.5,
+                "size" : [
+                    0.0,
+                    0.0,
+                    3.0
+                ],
+                "arc_div" : 8,
+                "lin_div" : 0.0,
+                "div_type" : "CORNERS",
+                "odd_axis_align" : 1,
+                "no_limit" : 0
+            },
+            "name" : "Roundcube.039",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 678,
+            "max" : [
+                0.5,
+                5.459305763244629,
+                0.5
+            ],
+            "min" : [
+                -0.5,
+                -1.5,
+                -0.5
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 678,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 678,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 3264,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 8136,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8136,
+            "byteOffset" : 8136,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5424,
+            "byteOffset" : 16272,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6528,
+            "byteOffset" : 21696,
+            "target" : 34963
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 28224,
+            "uri" : "data:application/octet-stream;base64,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3AECAXAB3AFwAaIB2wHcAaIB2wGiAdoBWABaAGMAWABjAGEAWgBbAGUAWgBlAGMAWwBcAGYAWwBmAGUAXABdAGcAXABnAGYAXQBeAGgAXQBoAGcAXgBfAGkAXgBpAGgAXwBgAGsAXwBrAGkAYADBANEAYADRAGsAYgBkAG4AYgBuAGwAYwBlAG8AYwBvAG0AZQBmAHEAZQBxAG8AZgBnAHIAZgByAHEAZwBoAHMAZwBzAHIAaABpAHUAaAB1AHMAaQBrAHcAaQB3AHUAagDQANkAagDZAHYAbABuAHkAbAB5AHgAbgBwAHsAbgB7AHkAbwBxAH0AbwB9AHoAcQByAIAAcQCAAH0AcgBzAIIAcgCCAIAAcwB1AIQAcwCEAIIAdAB2AIUAdACFAIMAdgDZAOEAdgDhAIUAeAB5AIkAeACJAIYAeQB7AIwAeQCMAIkAewB+AJAAewCQAIwAfAB/AJUAfACVAI8AfwCBAJgAfwCYAJUAgQCDAJsAgQCbAJgAgwCFAJ4AgwCeAJsAhQDhAOkAhQDpAJ4AOQA8AD0AOQA9ADoAPACGAIcAPACHAD0AhgCJAIoAhgCKAIcAiQCMAI0AiQCNAIoAjACQAJIAjACSAI0AjwCVAJYAjwCWAJEAlQCYAJkAlQCZAJYAmACbAJwAmACcAJkAsQHjAdsBsQHbAdoBQgCxAdoBQgDaAVYACQFCAFYACQFWAD8CDQEJAT8CDQE/AhABDgENARABDgEQAW0B8AEOAW0B8AFtAcQB8QHwAcQB8QHEAcoBuwHxAcoBuwHKAcgBsgHoAeMBsgHjAbEBQwCyAbEBQwCxAUIACgFDAEIACgFCAAkBGgEKAQkBGgEJAQ0B7wEaAQ0B7wENAQ4B8gHvAQ4B8gEOAfAB8wHyAfAB8wHwAfEBswHzAfEBswHxAbsBtQHqAegBtQHoAbIBRAC1AbIBRACyAUMAyQFEAEMAyQFDAAoB9gHJAQoB9gEKARoBEQH2ARoBEQEaAe8B9wERAe8B9wHvAfIB+AH3AfIB+AHyAfMBtAH4AfMBtAHzAbMB+QH6AeoB+QHqAbUBFAH5AbUBFAG1AUQA+wEUAUQA+wFEAMkB/AH7AckB/AHJAfYBVwL8AfYBVwL2AREBRQBXAhEBRQARAfcBFQFFAPcBFQH3AfgBFgEVAfgBFgH4AbQBwADCANIAwADSANAAwgDEANMAwgDTANIAxADGANQAxADUANMAxgDIANUAxgDVANQAyADKANYAyADWANUAygDMANcAygDXANYAzADOANgAzADYANcAzgAbASMBzgAjAdgA0ADSANoA0ADaANkA0gDTANsA0gDbANoA0wDUANwA0wDcANsA1ADVAN0A1ADdANwA1QDWAN4A1QDeAN0A1gDXAN8A1gDfAN4A1wDYAOAA1wDgAN8A2AAjASsB2AArAeAA2QDaAOIA2QDiAOEA2gDbAOMA2gDjAOIA2wDcAOQA2wDkAOMA3ADdAOUA3ADlAOQA3QDeAOYA3QDmAOUA3gDfAOcA3gDnAOYA3wDgAOgA3wDoAOcA4AArATMB4AAzAegA4QDiAOwA4QDsAOkA4gDjAO8A4gDvAOwA4wDkAPIA4wDyAO8A5ADlAPUA5AD1APIA5QDmAPgA5QD4APUA5gDnAPsA5gD7APgA5wDoAP4A5wD+APsA6AAzATsB6AA7Af4AmwCeAJ8AmwCfAJwAngDpAOoAngDqAJ8A6QDsAO0A6QDtAOoA7ADvAPAA7ADwAO0A7wDyAPMA7wDzAPAA8gD1APYA8gD2APMA9QD4APoA9QD6APYA+AD7AP0A+AD9APoAWgK7AcgBWgLIAcYBVgJaAsYBVgLGAbIARQJWArIARQKyALYBrQBFArYBrQC2AcABsQCtAMABsQDAAa8AGQGxAK8AGQGvAKgAuAEZAagAuAGoAFwBuQG4AVwBuQFcAV4BWQKzAbsBWQK7AVoCVAJZAloCVAJaAlYCRAJUAlYCRAJWAkUCSABEAkUCSABFAq0AqwBIAK0AqwCtALEAUwGrALEAUwGxABkBvAFTARkBvAEZAbgBvQG8AbgBvQG4AbkBWAK0AbMBWAKzAVkCpgBYAlkCpgBZAlQCpwCmAFQCpwBUAkQCVQGnAEQCVQFEAkgArABVAUgArABIAKsAVgGsAKsAVgGrAFMBvgFWAVMBvgFTAbwBvwG+AbwBvwG8Ab0BUwIWAbQBUwK0AVgCSQBTAlgCSQBYAqYAVwFJAKYAVwGmAKcAWAFXAacAWAGnAFUBUgJYAVUBUgJVAawASwBSAqwASwCsAFYBWQFLAFYBWQFWAb4BWgFZAb4BWgG+Ab8BGwEcASQBGwEkASMBHAEdASUBHAElASQBHQEeASYBHQEmASUBHgEfAScBHgEnASYBHwEgASgBHwEoAScBIAEhASkBIAEpASgBIQEiASoBIQEqASkBIgEAAA8AIgEPACoBIwEkASwBIwEsASsBJAElAS0BJAEtASwBJQEmAS4BJQEuAS0BJgEnAS8BJgEvAS4BJwEoATABJwEwAS8BKAEpATEBKAExATABKQEqATIBKQEyATEBKgEPABcAKgEXADIBKwEsATQBKwE0ATMBLAEtATUBLAE1ATQBLQEuATYBLQE2ATUBLgEvATcBLgE3ATYBLwEwATgBLwE4ATcBMAExATkBMAE5ATgBMQEyAToBMQE6ATkBMgEXAB8AMgEfADoBMwE0AT4BMwE+ATsBNAE1AUEBNAFBAT4BNQE2AUQBNQFEAUEBNgE3AUcBNgFHAUQBNwE4AUoBNwFKAUcBOAE5AU0BOAFNAUoBOQE6AVABOQFQAU0BOgEfACcAOgEnAFAB+wD+AAAB+wAAAf0A/gA7AT0B/gA9AQABOwE+AUABOwFAAT0BPgFBAUMBPgFDAUABQQFEAUYBQQFGAUMBRAFHAUkBRAFJAUYBRwFKAUwBRwFMAUkBSgFNAU8BSgFPAUwBYwK6AV8BYwJfAUMCBgFjAkMCBgFDAhIBQQIGARIBQQISARMBTQBBAhMBTQATAUYCtgBNAEYCtgBGAl4CYwG2AF4CYwFeAlUA2AFjAVUA2AFVANYBzQHZAdcBzQHXAagBYAK9AbkBYAK5AWICUQJhAmMCUQJjAgYBQAJRAgYBQAIGAUECTgBAAkECTgBBAk0AuABOAE0AuABNALYAZwG4ALYAZwG2AGMB0AFoAWQB0AFkAdkB0QHQAdkB0QHZAc0BXwK/Ab0BXwK9AWACTgJfAmACTgJgAlACUABPAlECUABRAkACagFQAEACagFAAk4AvABqAU4AvABOALgAawG9ALkAawG5AGgB1AFrAWgB1AFoAdAB1QHUAdAB1QHQAdEBTQJaAb8BTQK/AV8CUgBNAl8CUgBfAk4CbgFSAE4CbgFOAk8AbwFuAU8AbwFPAGkBSwJvAWkBSwJpAbsAVABMAr0AVAC9AGsBowFUAGsBowFrAdQBpAGjAdQBpAHUAdUBGwHPAHEBGwFxARwBzwDNAHIBzwByAXEBzQDLAHMBzQBzAXIBywDJAHQBywB0AXMByQDHAHUByQB1AXQBxwDFAHYBxwB2AXUBxQDDAHcBxQB3AXYBwwDBAGAAwwBgAHcBHAFxAXgBHAF4AR0BcQFyAXkBcQF5AXgBcgFzAXoBcgF6AXkBcwF0AXsBcwF7AXoBdAF1AXwBdAF8AXsBdQF2AX0BdQF9AXwBdgF3AX4BdgF+AX0BdwFgAF8AdwFfAH4BHQF4AX8BHQF/AR4BeAF5AYABeAGAAX8BeQF6AYEBeQGBAYABegF7AYIBegGCAYEBewF8AYMBewGDAYIBfAF9AYQBfAGEAYMBfQF+AYUBfQGFAYQBfgFfAF4AfgFeAIUBHgF/AYYBHgGGAR8BfwGAAYcBfwGHAYYBgAGBAYgBgAGIAYcBgQGCAYkBgQGJAYgBggGDAYoBggGKAYkBgwGEAYsBgwGLAYoBhAGFAYwBhAGMAYsBhQFeAF0AhQFdAIwBHwGGAY0BHwGNASABhgGHAY4BhgGOAY0BhwGIAY8BhwGPAY4BiAGJAZABiAGQAY8BiQGKAZEBiQGRAZABigGLAZIBigGSAZEBiwGMAZMBiwGTAZIBjAFdAFwAjAFcAJMBIAGNAZQBIAGUASEBjQGOAZUBjQGVAZQBjgGPAZYBjgGWAZUBjwGQAZcBjwGXAZYBkAGRAZgBkAGYAZcBkQGSAZkBkQGZAZgBkgGTAZoBkgGaAZkBkwFcAFsAkwFbAJoBIQGUAZsBIQGbASIBlAGVAZwBlAGcAZsBlQGWAZ0BlQGdAZwBlgGXAZ4BlgGeAZ0BlwGYAZ8BlwGfAZ4BmAGZAaABmAGgAZ8BmQGaAaEBmQGhAaABmgFbAFoAmgFaAKEBIgGbAQEAIgEBAAAAmwGcAQMAmwEDAAEAnAGdAQUAnAEFAAMAnQGeAQcAnQEHAAUAngGfAQkAngEJAAcAnwGgAQsAnwELAAkAoAGhAQ0AoAENAAsAoQFaAFgAoQFYAA0AXQLNAagBXQKoAWYBSgJdAmYBSgJmAb8AQABKAr8AQAC/AN8BVwBAAN8BVwDfAeEBCAFXAOEBCAHhAQUBqgEIAQUBqgEFAQMB4gGqAQMB4gEDAd0B4wHiAd0B4wHdAdsBXALRAc0BXALNAV0CSQJcAl0CSQJdAkoCQQBJAkoCQQBKAkAAoQBBAEAAoQBAAFcACwGhAFcACwFXAAgBqwELAQgBqwEIAaoB5wGrAaoB5wGqAeIB6AHnAeIB6AHiAeMBWwLVAdEBWwLRAVwCSgBbAlwCSgBcAkkCowBKAEkCowBJAkEArAGjAEEArAFBAKEADAGsAaEADAGhAAsBrQEMAQsBrQELAasB6QGtAasB6QGrAecB6gHpAecB6gHnAegBSAKkAdUBSALVAVsCpABIAlsCpABbAkoArgGkAEoArgFKAKMArwGuAaMArwGjAKwBRwKvAawBRwKsAQwBpQBHAgwBpQAMAa0BsAGlAK0BsAGtAekB+gGwAekB+gHpAeoBDQILAowCDQKMAo0CGAI5AqMCGAKjApICCQIIAooCCQKKAosCEwI3AqICEwKiApACBgICAocCBgKHAokClwCaAHIClwByAnEC9wD5AHoC9wB6AnkCDwIzAqACDwKgAo4CAgIEAogCAgKIAocC6wDuAHYC6wB2AnUCCwIxAp8CCwKfAowCAAL+AYUCAAKFAoYCCAIwAp4CCAKeAooCSwFOAYMCSwGDAoICkwCXAHECkwBxAm8C9AD3AHkC9AB5AngCiACLAG0CiABtAmwC/gE+AqUC/gGlAoUC+QD8AHsC+QB7AnoCoADrAHUCoAB1AnQCPgIuAp0CPgKdAqUCNQA4AGkCNQBpAmgC/wA8AX0C/wB9AnwCPAIsApwCPAKcAqQCPAE/AX4CPAF+An0COQIpApsCOQKbAqMCmgCdAHMCmgBzAnICPgCIAGwCPgBsAmsCTgFRAYQCTgGEAoMCNwInApoCNwKaAqICKAArAGUCKABlAmQCNAIlApkCNAKZAqECOgIXAlgBOgJYAVICCgIkAqQACgKkAK4BKwI7AlMCKwJTAkkAOAIUAloBOAJaAU0CBQIhAqUABQKlALABGQIrAkkAGQJJAFcBPQL9AfwBPQL8AVcCFwIZAlcBFwJXAVgBKgI6AlICKgJSAksA/wEfAhQB/wEUAfsBLQI9AlcCLQJXAkUANQIQAm8BNQJvAUsCKAI4Ak0CKAJNAlIAFAIWAlkBFAJZAVoBGwIdAhUBGwIVARYBHwIDAvkBHwL5ARQBFgIqAksAFgJLAFkBAwIBAvoBAwL6AfkBHQItAkUAHQJFABUBLwIHAq8BLwKvAUcCMgIMAqQBMgKkAUgC/QH/AfsB/QH7AfwBJgI2AkwCJgJMAlQAEgIoAlIAEgJSAG4BEAISAm4BEAJuAW8BJAIyAkgCJAJIAqQAIQIvAkcCIQJHAqUADgImAlQADgJUAKMBBwIKAq4BBwKuAa8BDAIOAqMBDAKjAaQBOwIbAhYBOwIWAVMCEAEPAWwBEAFsAW0BDwE/AEwADwFMAGwBPwDuAcwBPwDMAUwA7gHtAc8B7gHPAcwB7QHSAbUA7QG1AM8B0gFhAbcA0gG3ALUAYQFgAUICYQFCArcAYAFGAhMBYAETAUICbQFsAcMBbQHDAcQBbAFMAKIAbAGiAMMBTADMAcsBTADLAaIAzAHPAbQAzAG0AMsBzwG1AOwBzwHsAbQAtQC3AOsBtQDrAewBtwBCAuYBtwDmAesBQgITARIBQgISAeYBxAHDAWIBxAFiAcoBwwGiAFMAwwFTAGIBogDLAa4AogCuAFMAywG0AMIBywHCAa4AtADsAQcBtAAHAcIB7AHrARgB7AEYAQcB6wHmARcB6wEXARgB5gESAUMC5gFDAhcBygFiAccBygHHAcgBYgFTALMAYgGzAMcBUwCuALcBUwC3AbMArgDCAcEBrgDBAbcBwgEHAbAAwgGwAMEBBwEYAakABwGpALAAGAEXAV0BGAFdAakAFwFDAl8BFwFfAV0BTQFQAVIBTQFSAU8BAQIFArABAQKwAfoBJwApAFIBJwBSAVABJwAqACwAJwAsACkAaQJqApgCaQKYAosCbgJwAqECbgKhApkCagJrAp8CagKfApgCdwJ4AqMCdwKjApsCcQJyAo8CcQKPAo4CeQJ6ApMCeQKTApICZwJoAooCZwKKAp4CdQJ2ApECdQKRApACgAKBAoUCgAKFAqUCegJ7ApwCegKcApMCZgJnAp4CZgKeApcCbAJtAo0CbAKNAowCfwKAAqUCfwKlAp0CggKDApYCggKWAoYCaAJpAosCaAKLAooCZQJmApcCZQKXAokCcgJzApoCcgKaAo8ChAJkAocChAKHAogCbwJxAo4CbwKOAqACgwKEAogCgwKIApYCfQJ+ApUCfQKVApQCgQKCAoYCgQKGAoUCeAJ5ApICeAKSAqMCZAJlAokCZAKJAocCdgJ3ApsCdgKbApECewJ8AqQCewKkApwCdAJ1ApACdAKQAqICcwJ0AqICcwKiApoCbQJuApkCbQKZAo0CfAJ9ApQCfAKUAqQCfgJ/Ap0CfgKdApUCawJsAowCawKMAp8CHAI8AqQCHAKkApQCEQIPAo4CEQKOAo8CFQITApACFQKQApECLgAxAGcCLgBnAmYCGgIYApICGgKSApMCQgFFAYACQgGAAn8CKwAuAGYCKwBmAmUCHgIcApQCHgKUApUCRQFIAYECRQGBAoACIAIAAoYCIAKGApYCIgIGAokCIgKJApcCOwA+AGsCOwBrAmoC8QD0AHgC8QB4AncCIwIJAosCIwKLApgCjgCUAHACjgBwAm4CJQINAo0CJQKNApkCJwIRAo8CJwKPApoCSAFLAYICSAGCAoECOAA7AGoCOABqAmkCKQIVApECKQKRApsCUQEoAGQCUQFkAoQCnQCgAHQCnQB0AnMCLAIaApMCLAKTApwC/AD/AHwC/AB8AnsCLgIeApUCLgKVAp0CiwCOAG4CiwBuAm0CMQA1AGgCMQBoAmcCBAIgApYCBAKWAogCPwFCAX8CPwF/An4CMAIiApcCMAKXAp4CMQIjApgCMQKYAp8C7gDxAHcC7gB3AnYC"
+        }
+    ]
+}
